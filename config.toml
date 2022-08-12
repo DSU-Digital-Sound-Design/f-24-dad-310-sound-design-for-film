@@ -51,7 +51,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "DAD 310: Digital Soundtrack Production"
-      logoHomeLink = "/"
+      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-22-DAD-310-Digital-Soundtrack-Production/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
