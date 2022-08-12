@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "DAD 310: Digital Soundtrack Production"
 ---
 
 ![placeholder.png](https://loremflickr.com/320/240)

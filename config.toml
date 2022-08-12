@@ -1,4 +1,4 @@
-baseurl = "https://dsu-digital-sound-design.github.io/f-22-DAD-310-Digital-Soundtrack-Production/"
+baseurl = "/f-22-DAD-310-Digital-Soundtrack-Production/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
 paginate = 5
@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Course Name"
+    title = "DAD 310: Digital Soundtrack Production"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
