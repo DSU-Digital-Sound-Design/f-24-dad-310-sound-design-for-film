@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dsu-digital-sound-design.github.io/f-22-DAD-310-Digital-Soundtrack-Production/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
 paginate = 5
