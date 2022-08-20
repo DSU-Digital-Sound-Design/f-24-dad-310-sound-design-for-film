@@ -1,4 +1,4 @@
-baseurl = "/f-22-DAD-310-Digital-Soundtrack-Production/"
+baseurl = "/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
 paginate = 5
