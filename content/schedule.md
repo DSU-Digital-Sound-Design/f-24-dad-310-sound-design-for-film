@@ -12,10 +12,11 @@ author: ""
 - Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
 - Sign up for [Perusall](https://www.perusall.com/)
 
-> Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast
+> Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast - [Perusall](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/rain-is-sizzling-bacon-cars-are-lions-roaring-the-art-of-sound-in-movies-podcast)
 
 ## Thursday
 
+- Discuss podcast
 - Brief history of film sound and the different roles.
 - [Concept of sound design](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32)
 - Discuss the readings in the next class
