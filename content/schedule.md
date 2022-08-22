@@ -11,6 +11,7 @@ author: ""
 
 - Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
 - Sign up for [Perusall](https://www.perusall.com/)
+- Watch: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
 
 > Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast - [Perusall](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/rain-is-sizzling-bacon-cars-are-lions-roaring-the-art-of-sound-in-movies-podcast)
 
