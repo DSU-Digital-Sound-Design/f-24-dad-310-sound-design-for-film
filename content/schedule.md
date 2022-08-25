@@ -17,32 +17,28 @@ author: ""
 
 ## Thursday
 
-- Discuss podcast
-- Brief history of film sound and the different roles.
-- [Concept of sound design](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32)
-- Discuss the readings in the next class
-- Start working with Reaper
+- Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon)
+- [Reaper introduction](../lectures/week-1/reaper-intro/)
 
-<!-- > By next class
->
-> - Read: [Behind the Art: Randy Thom](https://designingsound.org/2011/01/12/behind-the-art-randy-thom/), [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm), [Rain is sizzling bacon, cars are lions roaring: the art of sound in movies](https://www.theguardian.com/film/2015/jul/22/rain-is-sizzling-bacon-cars-lions-roaring-art-of-sound-in-movies), [a conspiracy of sound: modes of listening in Brian de Palma's blow out, Whittington](http://www.thecine-files.com/a-conspiracy-of-sound-modes-of-listening-in-brian-de-palmas-blow-out/) -->
-
-<!--
-> For next week:
-> - Read: Chapter 1 SDFF
-> - Watch: [This is REAPER 6 - Intro (1/15)](https://youtu.be/bepxGZ-ZXGE), [This is REAPER 6 - Starting a New Project (2/15)](https://youtu.be/nYN45PhnCXE) -->
+> Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) on Perusall and make three meaningful comments.
 
 <!--
 
  # Week 2 (8/29) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
 
-- Talk about readings
+> Homework:
+> - Read: Chapter 1 SDFF
+
+- , [This is REAPER 6 - Starting a New Project (2/15)](https://youtu.be/nYN45PhnCXE). So if you need review please watch these.
+- Talk about Designing for sound reading, all jobs in sound design etc.
 - Answer questions from the first two Reaper Videos
   - Intro to Reaper and setting up a new project correctly.
 - Using the soundscape approach to listening to create an authentic sound world in film.
 - In-class listening activities on the soundscape
 - Listen to different examples of soundscape work and compare them to how soundscape is used in films.
 - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=16)
+
+> Read for Thrusday: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas
 
 
 > 9/1 - Census Day
