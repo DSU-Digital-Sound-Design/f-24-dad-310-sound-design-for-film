@@ -29,3 +29,5 @@ To further organize your files go to Reaper Preferences -> Media and check "Put 
 ## Project settings
 
 You can now turn off "open properties on new project" since you saved your default settings.
+
+> Compress this file and submit to D2L
