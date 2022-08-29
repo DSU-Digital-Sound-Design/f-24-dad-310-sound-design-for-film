@@ -22,32 +22,41 @@ author: ""
 
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) on Perusall and make three meaningful comments.
 
+# Week 2 (8/29) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
+
+## Tuesday
+
 <!--
+TODO: read thom - you assigned it to the wrong date ...
+TODO: make notes from Reaper video
 
- # Week 2 (8/29) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
+ -->
 
-> Homework:
-> - Read: Chapter 1 SDFF
-
-- , [This is REAPER 6 - Starting a New Project (2/15)](https://youtu.be/nYN45PhnCXE). So if you need review please watch these.
 - Talk about Designing for sound reading, all jobs in sound design etc.
-- Answer questions from the first two Reaper Videos
-  - Intro to Reaper and setting up a new project correctly.
+- [This is REAPER 6 - Starting a New Project](../lectures/week-2/this-is-reaper-2/)
+
+> Read: Chapter 1: Listening: Soundscapes, Audiences And Stories - Sound Design for Film (SDFF)
+
+<!-- assign this ^^^ -->
+
+## Thursday
+
+- Talk about SDFF chapter 1
 - Using the soundscape approach to listening to create an authentic sound world in film.
 - In-class listening activities on the soundscape
 - Listen to different examples of soundscape work and compare them to how soundscape is used in films.
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=16)
 
-> Read for Thrusday: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas
+<!-- >   Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
 
-
+<!--
 > 9/1 - Census Day
 
 > Read for next week: Chapter 2 Character, SDDF
 > Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
 > Watch: [This is REAPER 6 - The Tracks (3/15)](https://youtu.be/eVLI9oGUyic), [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
-> Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound)
+> Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
 
+<!--
 
 # Week 3 (9/5) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
