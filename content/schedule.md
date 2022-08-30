@@ -26,6 +26,7 @@ author: ""
 
 ## Tuesday
 
+- [Designing for sound](../lectures/week-2/thom-designing-for-sound/) notes
 - [This is REAPER 6 - Starting a New Project](../lectures/week-2/this-is-reaper-2/)
 
 > Read: Chapter 1: Listening: Soundscapes, Audiences And Stories - Sound Design for Film (SDFF)

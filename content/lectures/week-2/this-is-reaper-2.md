@@ -30,4 +30,16 @@ To further organize your files go to Reaper Preferences -> Media and check "Put 
 
 You can now turn off "open properties on new project" since you saved your default settings.
 
+## Silent film sound effects
+
+Add [Buster Keaton's Cops](https://archive.org/details/Cops1922) to your project and pick any 15 second segment of and add sound effects to the actions you see on screen. We will learn more through the semester about how to do this artfully, but now is your chance to use your intuition to give this scene more life.
+
+Sound Effects resources:
+
+- [Freesound.org](https://freesound.org)
+- [Freesound timbre search](https://labs.freesound.org/fse/)
+- [SoundQ](https://www.prosoundeffects.com/soundq/) - downloadable tool to search SoundQ free sound effects and Freesound.org
+- [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
+- [Gamesounds xyz](https://gamesounds.xyz/)
+
 > Compress this file and submit to D2L
