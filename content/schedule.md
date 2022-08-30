@@ -26,18 +26,9 @@ author: ""
 
 ## Tuesday
 
-<!--
-TODO: read thom - you assigned it to the wrong date ...
-TODO: make notes from Reaper video
-
- -->
-
-- Talk about Designing for sound reading, all jobs in sound design etc.
 - [This is REAPER 6 - Starting a New Project](../lectures/week-2/this-is-reaper-2/)
 
 > Read: Chapter 1: Listening: Soundscapes, Audiences And Stories - Sound Design for Film (SDFF)
-
-<!-- assign this ^^^ -->
 
 ## Thursday
 
