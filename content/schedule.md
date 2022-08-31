@@ -33,10 +33,11 @@ author: ""
 
 ## Thursday
 
-- Talk about SDFF chapter 1
-- Using the soundscape approach to listening to create an authentic sound world in film.
-- In-class listening activities on the soundscape
-- Listen to different examples of soundscape work and compare them to how soundscape is used in films.
+- watch some of your 15 second clips of Buster Keaton's Cops
+- Talk about SDFF chapter 1 - [notes](../lectures/week-2/sdff-chapter-1/)
+- Listen to soundscape music examples? Westerkamp, Truax etc?
+
+<!-- TODO: assign a reading for next week, check the one below vvvv -->
 
 <!-- >   Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
 
