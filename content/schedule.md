@@ -37,6 +37,8 @@ author: ""
 - Talk about SDFF chapter 1 - [notes](../lectures/week-2/sdff-chapter-1/)
 - Listen to soundscape music examples? Westerkamp, Truax etc?
 
+> Read for next week: Chapter 2 Character Psychology And Acting With Sound, SDDF
+
 <!-- TODO: assign a reading for next week, check the one below vvvv -->
 
 <!-- >   Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
@@ -44,7 +46,6 @@ author: ""
 <!--
 > 9/1 - Census Day
 
-> Read for next week: Chapter 2 Character, SDDF
 > Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
 > Watch: [This is REAPER 6 - The Tracks (3/15)](https://youtu.be/eVLI9oGUyic), [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
 > Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
