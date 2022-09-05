@@ -39,33 +39,40 @@ author: ""
 
 > Read for next week: Chapter 2 Character Psychology And Acting With Sound, SDDF
 
-<!-- TODO: assign a reading for next week, check the one below vvvv -->
-
-<!-- >   Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
-
 <!--
 > 9/1 - Census Day
 
 > Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
-> Watch: [This is REAPER 6 - The Tracks (3/15)](https://youtu.be/eVLI9oGUyic), [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
 > Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
-
-<!--
 
 # Week 3 (9/5) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
+## Tuesday
+
+- readings: be sure to comment three times in perusall AND submit that you read it in D2L so that I can grade the work.
 - Introduce Foley
-	- [CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=26)
-		- Film examples: The Shining, The Fog, Dr. Jekyll and Mr. Hyde, One Last Dance, As Good As it Gets, Playtime, The Jazz Singer, Show Boat, Spartacus, There Will Be Blood
-	-  [What Foley Artists  Do and Why The History, Theory, and Methods of Foley](x-devonthink-item://D89177C5-3855-410C-9726-0065E3987330?page=23) - pg 7 - 59
-	-  [Sound in Animation, Games, Radio Plays, and Movie Trailers](x-devonthink-item://D89177C5-3855-410C-9726-0065E3987330?page=193)
-- Tracks and recording audio in Reaper
+  - Chapter 2 Character Psychology And Acting With Sound, SDDF - [notes](../lectures/week-3/sdff-chapter-2/)
+- [This is REAPER 6 - The Tracks (3/15)](../lectures/week-3/reaper-tracks/)
 
-> Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
-> Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk)
+> Listen: [Working: How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/working-how-foley-artist-joanna-fang-creates-sound-effects-for-movies-and-tv?assignmentId=rFNfYWnADpQDhAcmZ&part=1)
 
-Assignment 1: [Foley Design](../../assignments/assignment-1-foley-design)
+> Assignment 1: [Foley Design](../../assignments/assignment-1-foley-design) - Due 9/13
 
+## Thursday
+
+<!-- TODO: work on project 1 more  -->
+
+- Discuss Joanna Fang podcast
+- More Reaper, tracks and recording to record your foley
+  - [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
+- Microphone and recording studio introduction
+
+<!-- > Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
+> Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk) -->
+
+> Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas
+
+<!--
 
 # Week 4 (9/12) - Microphones and recording in the studio
 
