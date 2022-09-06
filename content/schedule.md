@@ -56,8 +56,6 @@ author: ""
 
 > Listen: [Working: How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/working-how-foley-artist-joanna-fang-creates-sound-effects-for-movies-and-tv?assignmentId=rFNfYWnADpQDhAcmZ&part=1)
 
-> Assignment 1: [Foley Design](../../assignments/assignment-1-foley-design) - Due 9/13
-
 ## Thursday
 
 <!-- TODO: work on project 1 more  -->
@@ -66,6 +64,8 @@ author: ""
 - More Reaper, tracks and recording to record your foley
   - [This is REAPER 6 - Recording Audio (4/15)](https://youtu.be/eOegtqEOv1Q)
 - Microphone and recording studio introduction
+
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/13
 
 <!-- > Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
 > Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk) -->
