@@ -5,7 +5,7 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (8/22)- Introduction to sound design for film
+# Week 1 (8/22) - Introduction to sound design for film
 
 ## Tuesday
 
@@ -72,35 +72,46 @@ author: ""
 <!--
 > Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
 
-<!--
-
 # Week 4 (9/12) - Microphones and recording in the studio
 
-- Microphone and recording studio introduction
-- Assignment 1 Due.
-	- Foley rehearsal & critique. You and your group should be prepared to rehearse and perform your foley work.
-- **[Watch this with the SOUND OFF!!!](http://www.youtube.com/watch?v=rOVC4NY8Q-A&feature=related)** Start at 1\:30 and watch Puss n' Boots Dance Fight. Find one object to create a sound effect in this scene and bring it to our next class meeting.
+## Tuesday
+
+- What Foley items did you bring in? Let's spend a part of class rehearsing to the short clip.
+- Quick overview of [recording hardware](../lectures/week-4/audio-hardware/)
+- Microphone and recording studio introduction - [Charm Studios](https://sites.google.com/view/charmstudios/studio-documentation)
+  - Microphones and studio booking
+  - Try a few different microphones
+- Bring anything else you might want to record with to the next class
+
+> Read: Recording Foley section of SDFF Chapter 3
+
+## Thursday
+
+- More recording techniques - different mics, polar patterns, etc.
+- Footsteps
+  - Gravel, dirt, rocks, sand
 - MIDI and Editing in Reaper
-- Microphones- Lecture/Demo/Recording exercises
-	- Project: [Foley Recording](assignment-2-foley-recording)
-	- Recording Foley - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=34)
-	- The art of foley - [Sound Effects Bible\_ How to Create and Rec - Viers, Ric](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=156)
+
+<!-- TODO: define the project -->
+
+> Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
+
+<!-- > - The art of foley - [Sound Effects Bible\_ How to Create and Rec - Viers, Ric](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=156) -->
+
+<!--
 
 > Watch: [This is REAPER 6 - FX & Plugins (7/15)](https://youtu.be/lFDv75U0nO0), [This is REAPER 6 - Sends & Busses (8/15)](https://youtu.be/pfHGwzNyFC8)
 
-> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV]([https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138](https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138)), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [Using Microphone Polar Patterns Effectively](https://www.soundonsound.com/techniques/using-microphone-polar-patterns-effectively), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
-
-
+> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV](<[https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138](https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138)>), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [Using Microphone Polar Patterns Effectively](https://www.soundonsound.com/techniques/using-microphone-polar-patterns-effectively), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
 
 # Week 5 (9/19) - SETTING: AMBIENCE, IMMERSION, AND SENSE OF PLACE
 
-
 - Review Reaper editing:
-	- [in-class editing project](assignments/editing-exercise)
+  - [in-class editing project](assignments/editing-exercise)
 - **Practical exercise – deconstructing a scene from _Minority Report_ \(2002\) \(DVD\) using the Four Sound Areas**
 - Ambience, immersion, field recording - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=50)
-	- In-class assignments from this chapter
-	- Look at [sound mapping](https://soundmaps.app/#)
+  - In-class assignments from this chapter
+  - Look at [sound mapping](https://soundmaps.app/#)
 - Show other non-film examples of field recording
 - Demo the Zoom recorders
 - Project: [H2n (Location) Recording](assignments/assignment-3-field-recording)
@@ -110,14 +121,11 @@ author: ""
 
 > Read: [Backgrounds: Sound Design Under the Radar](https://designingsound.org/2012/11/20/backgrounds-sound-design-under-the-radar/), [Room Tone = Emotional Tone: The Importance of Hearing Ambience](https://designingsound.org/2012/11/15/room-tone-emotional-tone-the-importance-of-hearing-ambience/), [The Sonic Playground: Hollywood Cinema and its Listeners](www.filmsound.org/articles/sergi/index.htm)
 
-
-
-# Week 6 (9/26) -  MOOD:   EMOTION, TONE, AND WORKING WITH MUSIC
-
+# Week 6 (9/26) - MOOD: EMOTION, TONE, AND WORKING WITH MUSIC
 
 - Folders and Track Grouping in Reaper
 - [The Four Dimensions of a Soundtrack](modules/four-dimensions-of-a-soundtrack.md)
-	- Analysis of [_Winter Light_ \(1963\)](https://youtu.be/qpIVMx0q_IA)
+  - Analysis of [_Winter Light_ \(1963\)](https://youtu.be/qpIVMx0q_IA)
 - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=64) - how do certain (non-musical) sounds effect the mood of a film
 - [Assignment 4: Editing the location sound fx](assignments/assignment-4-sfx-editing)
 - [The Editing Mantra: L-I-S-T-E-N](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=232)
@@ -150,7 +158,6 @@ DUE by the end of the week Assignment 3 H2n (Location) Recording
 - Video Editing and Actions in Reaper
 - [Assignment 6: Sound Synthesis](assignments/assignment-6-sound-synthesis)
 
-
 > Watch: [This is REAPER 6 - Rendering (Bouncing) (15/15)](https://youtu.be/S5zSy-fOu2s)
 
 DUE Assignment 4: SFX Editing
@@ -162,7 +169,7 @@ DUE Assignment 4: SFX Editing
 
 DUE Assignment 5 - SFX final production
 
-# Week 10 (10/24) -  TIME: TRANSITIONS, RHYTHM, AND TIME PERCEPTION
+# Week 10 (10/24) - TIME: TRANSITIONS, RHYTHM, AND TIME PERCEPTION
 
 - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=182)
 
@@ -175,7 +182,6 @@ DUE Assignment 6 - Sound Synthesis
 - [Assignment 7: Abmiences](assignments/assignment-7-ambiences)
 
 # Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
-
 
 - [TRANSFORMATION](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=253)
 - Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas
@@ -201,4 +207,4 @@ Thanksgiving - No classes
 
 ## Thursday
 
-Start of final exams  -->
+Start of final exams -->
