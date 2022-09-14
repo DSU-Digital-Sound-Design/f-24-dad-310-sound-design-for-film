@@ -87,6 +87,10 @@ author: ""
 
 ## Thursday
 
+<!-- TODO: read recording foley and take notes -->
+<!-- TODO: find a short clip that we can work on in class and get elements that will work well for it -->
+
+- SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - More recording techniques - different mics, polar patterns, etc.
 - Footsteps
   - Gravel, dirt, rocks, sand
