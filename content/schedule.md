@@ -91,6 +91,13 @@ author: ""
 - _A Quiet Place_ Foley redesign
 
 > Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
+
+# Week 5 (9/19)
+
+## Tuesday
+
+- More _A Quiet Place_ Foley redesign
+
 > Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
 
 <!--
