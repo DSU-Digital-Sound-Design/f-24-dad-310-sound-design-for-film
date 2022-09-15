@@ -88,10 +88,7 @@ author: ""
 ## Thursday
 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
-- More recording techniques - different mics, polar patterns, etc.
-- Footsteps
-  - Gravel, dirt, rocks, sand
-- MIDI and Editing in Reaper
+- _A Quiet Place_ Foley redesign
 
 > Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
 > Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
