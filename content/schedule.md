@@ -87,20 +87,14 @@ author: ""
 
 ## Thursday
 
-<!-- TODO: read recording foley and take notes -->
-<!-- TODO: find a short clip that we can work on in class and get elements that will work well for it -->
-
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - More recording techniques - different mics, polar patterns, etc.
 - Footsteps
   - Gravel, dirt, rocks, sand
 - MIDI and Editing in Reaper
 
-<!-- TODO: define the project -->
-
 > Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
-
-<!-- > - The art of foley - [Sound Effects Bible\_ How to Create and Rec - Viers, Ric](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=156) -->
+> Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
 
 <!--
 
