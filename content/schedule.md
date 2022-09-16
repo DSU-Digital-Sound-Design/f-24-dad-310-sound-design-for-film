@@ -96,6 +96,8 @@ author: ""
 
 ## Tuesday
 
+- Make sure when I assign a reading that you are commenting three times on Perusall and submitting something to the dropbox so I can grade it.
+- Listen to your Foley work
 - More _A Quiet Place_ Foley redesign
 
 > Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
