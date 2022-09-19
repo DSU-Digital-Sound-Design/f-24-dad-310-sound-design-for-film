@@ -101,6 +101,11 @@ author: ""
 - More _A Quiet Place_ Foley redesign
 
 > Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
+> DUE next tuesday because of day of service
+
+## Thursday
+
+- Class Canceled - DSU Day of Service
 
 <!--
 
