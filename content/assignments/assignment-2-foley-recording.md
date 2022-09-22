@@ -17,7 +17,7 @@ Remember that animation means "bring to life." Reflect on the sounds that will l
 
 Project requirements\:
 
--     The animation is 10 seconds long; all objects and events that make a sound must be represented somehow.
+- The animation is 10 seconds long; all objects and events that make a sound must be represented somehow.
 - All sound-making objects are fair game for this assignment, but you can not use anything explosive or otherwise dangerous.
 - Evaluations will be based on the efforts of your entire group. This includes the sound quality of your recordings, synchronization, and overall mix/balance of the final Foley design.
--     Your group should zip \(compress as a zip archive\) your **entire** DAW session \(including all audio and video files\) and post to D2l on or before the assignment due date.
+- Your group should zip \(compress as a zip archive\) your **entire** DAW session \(including all audio and video files\) and post to D2l on or before the assignment due date.
