@@ -107,6 +107,16 @@ author: ""
 
 - Class Canceled - DSU Day of Service
 
+# Week 6 (9/26) - Setting Ambience, Immersion And Sense Of Place
+
+## Tuesday
+
+- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
+  - In-class assignments from this chapter
+  - Look at [sound mapping](https://soundmaps.app/#)
+
+## Thursday
+
 <!--
 
 > Watch: [This is REAPER 6 - FX & Plugins (7/15)](https://youtu.be/lFDv75U0nO0), [This is REAPER 6 - Sends & Busses (8/15)](https://youtu.be/pfHGwzNyFC8)
@@ -118,9 +128,7 @@ author: ""
 - Review Reaper editing:
   - [in-class editing project](assignments/editing-exercise)
 - **Practical exercise – deconstructing a scene from _Minority Report_ \(2002\) \(DVD\) using the Four Sound Areas**
-- Ambience, immersion, field recording - [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=50)
-  - In-class assignments from this chapter
-  - Look at [sound mapping](https://soundmaps.app/#)
+
 - Show other non-film examples of field recording
 - Demo the Zoom recorders
 - Project: [H2n (Location) Recording](assignments/assignment-3-field-recording)
