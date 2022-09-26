@@ -112,27 +112,27 @@ author: ""
 ## Tuesday
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
-  - In-class assignments from this chapter
-  - Look at [sound mapping](https://soundmaps.app/#)
 
 ## Thursday
 
+<!-- TODO: finalize this assignment 3, when is it due? check on the requirements and make sure they make sense  -->
+
+- Demo the Zoom recorders
+- Project: [H2n (Location) Recording](assignments/assignment-3-field-recording)
+- A quiet place
+  - Re-record some footsteps
+  - Record some ambiences during class and see how they work
+  - record some of the household items
+
 <!--
 
-> Watch: [This is REAPER 6 - FX & Plugins (7/15)](https://youtu.be/lFDv75U0nO0), [This is REAPER 6 - Sends & Busses (8/15)](https://youtu.be/pfHGwzNyFC8)
 
-> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV](<[https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138](https://podcasts.apple.com/us/podcast/slate-culture/id279188498?i=1000567728138)>), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [Using Microphone Polar Patterns Effectively](https://www.soundonsound.com/techniques/using-microphone-polar-patterns-effectively), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
+
+> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
 
 # Week 5 (9/19) - SETTING: AMBIENCE, IMMERSION, AND SENSE OF PLACE
 
-- Review Reaper editing:
-  - [in-class editing project](assignments/editing-exercise)
-- **Practical exercise – deconstructing a scene from _Minority Report_ \(2002\) \(DVD\) using the Four Sound Areas**
 
-- Show other non-film examples of field recording
-- Demo the Zoom recorders
-- Project: [H2n (Location) Recording](assignments/assignment-3-field-recording)
-- FX & Plugins, Sends & Busses in Reaper
 
 > Watch: [This is REAPER 6 - Folders (9/15)](https://youtu.be/GGY4UYBbxyM), [This is REAPER 6 - Track Grouping (10/15)](https://youtu.be/3tmI88BKnb8)
 
