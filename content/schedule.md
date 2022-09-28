@@ -115,8 +115,6 @@ author: ""
 
 ## Thursday
 
-<!-- TODO: finalize this assignment 3, when is it due? check on the requirements and make sure they make sense  -->
-
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/#/12) - finish presentation
 - Demo the Zoom recorders
   - recording, compression, limiting, bitrate/samplerate, loading files onto computer
