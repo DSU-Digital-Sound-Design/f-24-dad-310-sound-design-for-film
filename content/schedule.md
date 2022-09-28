@@ -117,12 +117,17 @@ author: ""
 
 <!-- TODO: finalize this assignment 3, when is it due? check on the requirements and make sure they make sense  -->
 
+- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/#/12) - finish presentation
 - Demo the Zoom recorders
-- Project: [H2n (Location) Recording](assignments/assignment-3-field-recording)
+  - recording, compression, limiting, bitrate/samplerate, loading files onto computer
+- [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
+- Project: [H2n (Location) Recording](../assignments/assignment-3-field-recording/)
 - A quiet place
   - Re-record some footsteps
-  - Record some ambiences during class and see how they work
-  - record some of the household items
+  - record some of the household items - spot sounds
+  - time permitting - Record some ambiences during class and see how they work
+
+> DUE October 5th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
 <!--
 
@@ -154,7 +159,6 @@ author: ""
 
 > Read: [8 Easy Steps To Better EQ](https://music.tutsplus.com/tutorials/8-easy-steps-to-better-eq--audio-942), [The beginner's guide to compression](https://www.musicradar.com/how-to/beginners-guide-to-compression), [Karen Baker Landers and Per Hallberg: Sound Editors Argue Their Way to Their Art](https://variety.com/video/karen-baker-landers-per-hallberg-art-of-sound/#%21=)
 
-> DUE: by the end of the week: [Foley Recording](assignment-2-foley-recording)
 
 # Week 7 (10/3) - SYMBOL: SOUND WORLDS AND METAPHORS
 
