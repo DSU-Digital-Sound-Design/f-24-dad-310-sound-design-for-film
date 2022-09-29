@@ -41,4 +41,4 @@ Each sound recording should be accompanied with a slated voice indicating:
 
 Turn in a Reaper project with 5 tracks for each recording you make. This way you will be ready to edit the files in the next project.
 
-> DUE October 5th
+> DUE October 4th
