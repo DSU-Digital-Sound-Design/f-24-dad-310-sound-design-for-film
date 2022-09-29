@@ -120,12 +120,17 @@ author: ""
   - recording, compression, limiting, bitrate/samplerate, loading files onto computer
 - [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
 - Project: [H2n (Location) Recording](../assignments/assignment-3-field-recording/)
+
+> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+
+# Week 7
+
+## Tuesday
+
+- Editing, and cleaning up, audio in Reaper
 - A quiet place
   - Re-record some footsteps
   - record some of the household items - spot sounds
-  - time permitting - Record some ambiences during class and see how they work
-
-> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
 <!--
 
