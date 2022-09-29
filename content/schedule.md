@@ -125,7 +125,7 @@ author: ""
   - record some of the household items - spot sounds
   - time permitting - Record some ambiences during class and see how they work
 
-> DUE October 5th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
 <!--
 
