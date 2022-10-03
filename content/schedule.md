@@ -123,14 +123,22 @@ author: ""
 
 > DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
-# Week 7
+# Week 7 - (10/3)
 
 ## Tuesday
 
-- Editing, and cleaning up, audio in Reaper
+- [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
+- [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 - A quiet place
   - Re-record some footsteps
   - record some of the household items - spot sounds
+
+> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 11
+
+## Thursday
+
+- [Mood: Emotion, Tone and Working with Music]()
+- More sound effects recording
 
 <!--
 
