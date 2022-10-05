@@ -129,19 +129,19 @@ author: ""
 
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
-- A quiet place
-  - Re-record some footsteps
-  - record some of the household items - spot sounds
 
 > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 11
 
 ## Thursday
 
-- [Mood: Emotion, Tone and Working with Music]()
-- More sound effects recording
+- A quiet place
+  - Clean up what we recorded before
+  - Re-record some footsteps
+  - record some of the household items - spot sounds
 
 <!--
 
+- [Mood: Emotion, Tone and Working with Music]()
 
 
 > Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
