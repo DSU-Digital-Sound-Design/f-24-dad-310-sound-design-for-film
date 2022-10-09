@@ -139,36 +139,18 @@ author: ""
   - Re-record some footsteps
   - record some of the household items - spot sounds
 
-<!--
+# Week 8 (10/10) - Mood
 
-- [Mood: Emotion, Tone and Working with Music]()
+## Tuesday
 
+- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-3/)
 
-> Read: [Nicolas Becker – Behind the Art](https://designingsound.org/2012/12/22/nicolas-becker-behind-the-art/), [Behind the Art: Tim Prebble](https://designingsound.org/2011/02/17/behind-the-art-tim-prebble/), [How To Record Your Own Foley Tracks At Home](https://chrisjonesblog.com/2012/11/how-to-record-your-own-foley-tracks-at-home.html), [9 Sound Design Hacks for Bigger, Fuller Mixes ](https://output.com/blog/9-sound-design-tips-to-hack-your-listeners-ears)
+## Thursday
 
-# Week 5 (9/19) - SETTING: AMBIENCE, IMMERSION, AND SENSE OF PLACE
-
-
-
-> Watch: [This is REAPER 6 - Folders (9/15)](https://youtu.be/GGY4UYBbxyM), [This is REAPER 6 - Track Grouping (10/15)](https://youtu.be/3tmI88BKnb8)
-
-> Read: [Backgrounds: Sound Design Under the Radar](https://designingsound.org/2012/11/20/backgrounds-sound-design-under-the-radar/), [Room Tone = Emotional Tone: The Importance of Hearing Ambience](https://designingsound.org/2012/11/15/room-tone-emotional-tone-the-importance-of-hearing-ambience/), [The Sonic Playground: Hollywood Cinema and its Listeners](www.filmsound.org/articles/sergi/index.htm)
-
-# Week 6 (9/26) - MOOD: EMOTION, TONE, AND WORKING WITH MUSIC
-
-- Folders and Track Grouping in Reaper
 - [The Four Dimensions of a Soundtrack](modules/four-dimensions-of-a-soundtrack.md)
   - Analysis of [_Winter Light_ \(1963\)](https://youtu.be/qpIVMx0q_IA)
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=64) - how do certain (non-musical) sounds effect the mood of a film
-- [Assignment 4: Editing the location sound fx](assignments/assignment-4-sfx-editing)
-- [The Editing Mantra: L-I-S-T-E-N](x-devonthink-item://55D51ABF-7A9B-41E1-9C84-7D925FA5EA97?page=232)
-- EQ - they need to know this for assignment 5
-- Compression
-- Other effects
 
-> Watch: [This is REAPER 6 - Markers & Regions (11/15)](https://youtu.be/rPUFHabfdI0), [This is REAPER 6 - Envelopes & Automation (12/15)](https://youtu.be/PyRpS_BTlzE)
-
-> Read: [8 Easy Steps To Better EQ](https://music.tutsplus.com/tutorials/8-easy-steps-to-better-eq--audio-942), [The beginner's guide to compression](https://www.musicradar.com/how-to/beginners-guide-to-compression), [Karen Baker Landers and Per Hallberg: Sound Editors Argue Their Way to Their Art](https://variety.com/video/karen-baker-landers-per-hallberg-art-of-sound/#%21=)
+<!--
 
 
 # Week 7 (10/3) - SYMBOL: SOUND WORLDS AND METAPHORS
