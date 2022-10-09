@@ -147,23 +147,20 @@ author: ""
 
 ## Thursday
 
-- [The Four Dimensions of a Soundtrack](modules/four-dimensions-of-a-soundtrack.md)
-  - Analysis of [_Winter Light_ \(1963\)](https://youtu.be/qpIVMx0q_IA)
+<!-- TODO: make notes on this -->
+<!-- TODO: Look at this intro to SFX in vital: https://www.youtube.com/watch?v=R7BW4Ujll-U -->
+
+- [Symbol: Sound Worlds And Metaphors]()
+- Sound Synthesis - creating sounds that can't be recorded
+  - Intro to Vital
+- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas. More details later, but start looking for a film scene to present on now. Presentations will happen the week before Thanksgiving.
+
+<!-- TODO: create this assignment  -->
+
+> [Assignment 6: Sound Synthesis](../assignments/assignment-6-sound-synthesis/)
 
 <!--
 
-
-# Week 7 (10/3) - SYMBOL: SOUND WORLDS AND METAPHORS
-
-- Analysis: , _Apocalypse Now_ \(1979\) - [Opening scene](https://youtu.be/ntPHFVWDIqM) - Also availible in the DSU Library
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=78)
-- Markers & Regions, Envelopes & Automation in Reaper
-- [Assignment 5: SFX processing](assignment-5-sfx-processing-and-final-production)
-- Sound Synthesis 1 - using synthesis to make sounds for a science fiction scene
-
-> Watch: [This is REAPER 6 - Video Editing (13/15)](https://youtu.be/-n0V_KnXbRA), [This is REAPER 6 - Actions (Action List) (14/15)](https://youtu.be/CZ1IliW_0p4)
-
-DUE by the end of the week Assignment 3 H2n (Location) Recording
 
 # Week 8 (10/10) - # SHAPE: SOUND MAPS, CONTRAST, AND MOTIF
 
@@ -198,7 +195,6 @@ DUE Assignment 6 - Sound Synthesis
 # Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
 
 - [TRANSFORMATION](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=253)
-- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas
 
 DUE Assignment 7 - Ambiences
 
