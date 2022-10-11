@@ -143,21 +143,80 @@ author: ""
 
 ## Tuesday
 
-- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-3/)
+- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
 
 ## Thursday
 
 <!-- TODO: make notes on this -->
-<!-- TODO: Look at this intro to SFX in vital: https://www.youtube.com/watch?v=R7BW4Ujll-U -->
+<!-- NOTE: try to get through the book section quickly, to move onto sample manipulation, synthesis, and a final mix -->
 
-- [Symbol: Sound Worlds And Metaphors]()
-- Sound Synthesis - creating sounds that can't be recorded
+- Work on Assignment 4: SFX editing - due next week
+- [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
+
+<!--
+
+Plan to finish more of the book
+
+# Week 9 -
+
+## Tuesday
+
+Chapter 6, skip 7, 8,
+
+## Thursday
+
+Chapter 9
+
+# Week 10 -
+
+## Tuesday
+
+Chapter 10 Time,
+
+## Thursday
+
+- Chapter 11 Space
+
+# Week 11
+
+## Tuesday
+
+Chapter 12 Aesthetic
+
+## Thursday
+
+- Chapter 14 - Transformation
+- effects in reaper
+  - Time based - delay, reverb
+  - modulation effects
+- Introduce sample manipulation assignment?
+
+# Week 12
+
+
+## Tuesday
+
+TODO: Look at this intro to SFX in vital: https://www.youtube.com/watch?v=R7BW4Ujll-U
+
+- Synthesis Sound
+
+## Thursday
+
+- More synthesis
+
+# Week 13, 14, 15, 16
+
+- The final mix
+- Starting to work on final
+  -->
+
+<!-- - Sound Synthesis - creating sounds that can't be recorded
   - Intro to Vital
-- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas. More details later, but start looking for a film scene to present on now. Presentations will happen the week before Thanksgiving.
+- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas. More details later, but start looking for a film scene to present on now.-->
 
 <!-- TODO: create this assignment  -->
 
-> [Assignment 6: Sound Synthesis](../assignments/assignment-6-sound-synthesis/)
+<!-- > [Assignment 6: Sound Synthesis](../assignments/assignment-6-sound-synthesis/) -->
 
 <!--
 
