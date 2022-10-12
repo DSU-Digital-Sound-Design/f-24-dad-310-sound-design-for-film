@@ -40,7 +40,7 @@ These works contain a high degree of ambiguity, with much left open to interpret
 
 ---
 
-## Sound Worlds
+## Sound Worlds - Parasite
 
 - [Hulu](https://www.hulu.com/watch/2fd691a0-f66b-467f-8635-00d7f151f3d4)
   - poor families home - start - 6:00
@@ -73,3 +73,29 @@ Once the worlds have been populated with sonic features, we need to think about 
 [PDF](qualities-of-sound.pdf)
 
 ---
+
+## Sound World Interaction - Force Majeure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNIGKqoK2SA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{% note %}}
+Force Majeure serves up another case of sparring sound worlds, in a story about a middle-class family at a ski resort, and the brittle foundations on which they have built a veneer of perfect living.
+
+Two different sound worlds
+
+1. the predictable, manicured sounds of the resort interior, with its soft edges and plastic pop music
+2. In stark contrast are the bassy, angular sounds of storms, mechanics and booming snow-making machines, along with an equally fierce musical theme, representing the incendiary truths that are about to emerge.
+
+{{%/ note %}}
+
+---
+
+## Nature
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ooXF9VDouN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Resort
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_ii_OkB96E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

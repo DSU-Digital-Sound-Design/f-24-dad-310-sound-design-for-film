@@ -147,10 +147,12 @@ author: ""
 
 ## Thursday
 
-<!-- TODO: make notes on this -->
 <!-- NOTE: try to get through the book section quickly, to move onto sample manipulation, synthesis, and a final mix -->
 
-- Work on Assignment 4: SFX editing - due next week
+- Work on Assignment 4: SFX editing and processing - due October 18th
+  - Zoom in on sections of audio with "option + command + right click".
+  - Quick overview of normalization, applying EQ, compression, rendering items.
+  - Track effects vs take effects
 - [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
 <!--
