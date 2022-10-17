@@ -155,19 +155,24 @@ author: ""
   - Track effects vs take effects
 - [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
+# Week 9 (10/17)
+
+## Tuesday
+
+- [Shape: Sound Maps, Contrast And Motif](../lectures/week-9/sdff-chapter-6/)
+
+## Thursday
+
+- Image: Spotting And Sound–Image Relationships
+  - Spotting using empty clips
+  - Using the media explorer
+
+<!-- Short in class spotting assignment? -->
+
 <!--
 
 Plan to finish more of the book
 
-# Week 9 -
-
-## Tuesday
-
-Chapter 6, skip 7, 8,
-
-## Thursday
-
-Chapter 9
 
 # Week 10 -
 
