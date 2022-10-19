@@ -163,12 +163,9 @@ author: ""
 
 ## Thursday
 
-- Image: Spotting And Sound–Image Relationships
-  - Spotting using empty clips
-  - Using the media explorer
+- [In class spotting assignment](../lectures/week-9/spotting-assignment/)
 
 <!-- Short in class spotting assignment? -->
-
 <!--
 
 Plan to finish more of the book
