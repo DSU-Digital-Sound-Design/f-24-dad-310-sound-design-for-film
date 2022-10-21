@@ -163,6 +163,17 @@ author: ""
 
 ## Thursday
 
+# Week 10 -
+
+## Tuesday
+
+- Another spotting trick - right click on files in media explorer -> insert into selected media items
+- Chapter 10 Time,
+
+## Thursday
+
+- Chapter 11 Space
+
 - [In class spotting assignment](../lectures/week-9/spotting-assignment/)
 
 <!-- Short in class spotting assignment? -->
@@ -170,16 +181,6 @@ author: ""
 
 Plan to finish more of the book
 
-
-# Week 10 -
-
-## Tuesday
-
-Chapter 10 Time,
-
-## Thursday
-
-- Chapter 11 Space
 
 # Week 11
 
