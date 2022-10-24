@@ -163,18 +163,18 @@ author: ""
 
 ## Thursday
 
-# Week 10 -
+- [In class spotting assignment](../lectures/week-9/spotting-assignment/)
+
+# Week 10 - (10/24)
 
 ## Tuesday
 
 - Another spotting trick - right click on files in media explorer -> insert into selected media items
-- Chapter 10 Time,
+- [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
 
 ## Thursday
 
 - Chapter 11 Space
-
-- [In class spotting assignment](../lectures/week-9/spotting-assignment/)
 
 <!-- Short in class spotting assignment? -->
 <!--
