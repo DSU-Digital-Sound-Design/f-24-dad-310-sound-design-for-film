@@ -177,6 +177,8 @@ author: ""
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
+<!-- a change -->
+
 <!-- Short in class spotting assignment? -->
 <!--
 
