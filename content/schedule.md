@@ -174,7 +174,8 @@ author: ""
 
 ## Thursday
 
-- Chapter 11 Space
+- [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
+- [Reaper: Reverbs assignment](../assignments/reverb/)
 
 <!-- Short in class spotting assignment? -->
 <!--
