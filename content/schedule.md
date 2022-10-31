@@ -177,19 +177,25 @@ author: ""
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
-<!-- a change -->
-
-<!-- Short in class spotting assignment? -->
-<!--
-
-Plan to finish more of the book
-
-
-# Week 11
+# Week 11 - (10/31)
 
 ## Tuesday
 
-Chapter 12 Aesthetic
+<!-- DEMO and then give a short assignment using layering and pitch shifting -->
+
+- [Layering and pitch shifting to create sound effects]()
+
+> Turn in your results from todays explosion sound effects lesson to D2L by Thursday at midnight
+
+## Thursday
+
+- Another sound design - sci-fi or something else?
+
+# Week 12 (11/7)
+
+## Tuesday
+
+- [Aesthetic - Exploring The Overall Feel Of A Sound Track](../lectures/week-11/sdff-chapter-12/)
 
 ## Thursday
 
@@ -199,24 +205,11 @@ Chapter 12 Aesthetic
   - modulation effects
 - Introduce sample manipulation assignment?
 
-# Week 12
-
-
-## Tuesday
-
-TODO: Look at this intro to SFX in vital: https://www.youtube.com/watch?v=R7BW4Ujll-U
-
-- Synthesis Sound
-
-## Thursday
-
-- More synthesis
-
 # Week 13, 14, 15, 16
 
 - The final mix
+- Introduce final, and proposal
 - Starting to work on final
-  -->
 
 <!-- - Sound Synthesis - creating sounds that can't be recorded
   - Intro to Vital
@@ -228,36 +221,6 @@ TODO: Look at this intro to SFX in vital: https://www.youtube.com/watch?v=R7BW4U
 
 <!--
 
-
-# Week 8 (10/10) - # SHAPE: SOUND MAPS, CONTRAST, AND MOTIF
-
-- Analysis: _Dogville_ \(2003\).
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=90)
-- Video Editing and Actions in Reaper
-- [Assignment 6: Sound Synthesis](assignments/assignment-6-sound-synthesis)
-
-> Watch: [This is REAPER 6 - Rendering (Bouncing) (15/15)](https://youtu.be/S5zSy-fOu2s)
-
-DUE Assignment 4: SFX Editing
-
-# Week 9 (10/17) - Image: SPOTTING AND SOUND–IMAGE RELATIONSHIPS
-
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=168)
-- Rendering in Reaper
-
-DUE Assignment 5 - SFX final production
-
-# Week 10 (10/24) - TIME: TRANSITIONS, RHYTHM, AND TIME PERCEPTION
-
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=182)
-
-DUE Assignment 6 - Sound Synthesis
-
-# Week 11 (10/31) - Space: ACOUSTICS, SILENCE, AND THE FREQUENCY SPECTRUM
-
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=194)
-- Watch: [Making Waves\: The Art of Cinematic Sound](https://www.youtube.com/watch?v=xsckp8r1-8c)
-- [Assignment 7: Abmiences](assignments/assignment-7-ambiences)
 
 # Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
 
