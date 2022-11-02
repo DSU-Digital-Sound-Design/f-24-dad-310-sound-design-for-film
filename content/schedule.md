@@ -181,46 +181,31 @@ author: ""
 
 ## Tuesday
 
-<!-- DEMO and then give a short assignment using layering and pitch shifting -->
-
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
 > Turn in your results from todays explosion sound effects lesson to D2L by Thursday at midnight
 
 ## Thursday
 
-- Another sound design - sci-fi or something else?
+- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
 # Week 12 (11/7)
 
 ## Tuesday
 
-- [Aesthetic - Exploring The Overall Feel Of A Sound Track](../lectures/week-11/sdff-chapter-12/)
+- Another sound design with other effects
+- Sound Design Immersive Backgrounds - https://www.youtube.com/watch?v=4cGCL4KVXhA
 
 ## Thursday
 
-- Chapter 14 - Transformation
-- effects in reaper
-  - Time based - delay, reverb
-  - modulation effects
-- Introduce sample manipulation assignment?
+- [Aesthetic - Exploring The Overall Feel Of A Sound Track](../lectures/week-11/sdff-chapter-12/)
 
 # Week 13, 14, 15, 16
 
-- The final mix
+- Chapter 15 - FINALE MIXING AND DELIVERING A FILM
 - Introduce final, and proposal
 - Starting to work on final
-
-<!-- - Sound Synthesis - creating sounds that can't be recorded
-  - Intro to Vital
-- Introduce the presentations - present a scene from a film and describe the sound in terms of emotion and the four sound areas. More details later, but start looking for a film scene to present on now.-->
-
-<!-- TODO: create this assignment  -->
-
-<!-- > [Assignment 6: Sound Synthesis](../assignments/assignment-6-sound-synthesis/) -->
-
 <!--
-
 
 # Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
 
