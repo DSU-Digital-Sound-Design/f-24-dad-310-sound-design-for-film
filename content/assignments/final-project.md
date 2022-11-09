@@ -42,3 +42,5 @@ Remember also that all of your sounds may have been recorded in different locati
 See these extra impulse responses [here](https://www.voxengo.com/impulses/).
 
 Also, use panning and panning automation to make sounds follow events on the screen spatially.
+
+> You will do your final mix in the recording studio mixing booth. Submit your studio reservation with your final showing that you booked time to do the mix.
