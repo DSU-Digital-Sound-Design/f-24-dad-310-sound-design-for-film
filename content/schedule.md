@@ -197,13 +197,17 @@ author: ""
 
 ## Thursday
 
-- [Aesthetic - Exploring The Overall Feel Of A Sound Track](../lectures/week-11/sdff-chapter-12/)
+- Like Lambs - final mix
+- Tuesdays will be for office hours
+- Thursdays to show progress
+
+> [Final project description](../assignments/final-project/)
 
 # Week 13, 14, 15, 16
 
-- Chapter 15 - FINALE MIXING AND DELIVERING A FILM
-- Introduce final, and proposal
-- Starting to work on final
+- Tuesdays are open for office hours
+- Everyone meets on Thursday to show progress
+
 <!--
 
 # Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
