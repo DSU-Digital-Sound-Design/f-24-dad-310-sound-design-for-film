@@ -193,8 +193,7 @@ author: ""
 
 ## Tuesday
 
-- Another sound design with other effects
-- Sound Design Immersive Backgrounds - https://www.youtube.com/watch?v=4cGCL4KVXhA
+- Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds)
 
 ## Thursday
 
