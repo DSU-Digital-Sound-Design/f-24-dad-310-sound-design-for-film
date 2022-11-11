@@ -205,8 +205,14 @@ author: ""
 
 # Week 13, 14, 15, 16
 
-- Tuesdays are open for office hours
-- Everyone meets on Thursday to show progress
+- **Tuesdays** are open for office hours
+- Everyone meets on **Thursday** to show progress
+
+# Week 16
+
+## Final Exam
+
+- Tuesday, December; 13 3:30 pm - 5:30 pm
 
 <!--
 
