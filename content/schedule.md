@@ -212,7 +212,7 @@ author: ""
 
 ## Final Exam
 
-- Tuesday, December; 13 3:30 pm - 5:30 pm
+- Tuesday, December 13; 3:30 pm - 5:30 pm
 
 <!--
 
