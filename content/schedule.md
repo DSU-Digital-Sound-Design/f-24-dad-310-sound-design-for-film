@@ -208,6 +208,10 @@ author: ""
 - **Tuesdays** are open for office hours
 - Everyone meets on **Thursday** to show progress
 
+## This tuesday
+
+- Show effects sends again
+
 # Week 16
 
 ## Final Exam
