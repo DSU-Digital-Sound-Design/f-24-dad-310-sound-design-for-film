@@ -208,9 +208,10 @@ author: ""
 - **Tuesdays** are open for office hours
 - Everyone meets on **Thursday** to show progress
 
-## This tuesday
+## Meeting
 
 - Show effects sends again
+- Course Evaluations are open, please fill them out
 
 # Week 16
 
