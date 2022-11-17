@@ -212,6 +212,7 @@ author: ""
 
 - Show effects sends again
 - Course Evaluations are open, please fill them out
+- [SFX Resources](https://www.freeaudioresource.com/sound-effects)
 
 # Week 16
 
