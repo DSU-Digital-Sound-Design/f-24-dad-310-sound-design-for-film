@@ -38,6 +38,7 @@ author: ""
 - Listen to soundscape music examples? Westerkamp, Truax etc?
 
 > Read for next week: Chapter 2 Character Psychology And Acting With Sound, SDDF
+-->
 
 <!--
 > 9/1 - Census Day
@@ -45,6 +46,7 @@ author: ""
 > Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
 > Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
 
+<!--
 # Week 3 (9/4) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
 ## Tuesday
