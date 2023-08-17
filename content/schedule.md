@@ -5,15 +5,14 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (8/22) - Introduction to sound design for film
+# Week 1 (8/21) - Introduction to sound design for film
 
 ## Tuesday
 
 - Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
-- Sign up for [Perusall](https://www.perusall.com/)
 - Watch: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
 
-> Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast - [Perusall](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/rain-is-sizzling-bacon-cars-are-lions-roaring-the-art-of-sound-in-movies-podcast)
+> Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast 
 
 ## Thursday
 
@@ -22,7 +21,8 @@ author: ""
 
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) on Perusall and make three meaningful comments.
 
-# Week 2 (8/29) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
+<!-- 
+# Week 2 (8/28) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
 
 ## Tuesday
 
@@ -45,7 +45,7 @@ author: ""
 > Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
 > Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
 
-# Week 3 (9/5) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
+# Week 3 (9/4) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
 ## Tuesday
 
@@ -64,15 +64,15 @@ author: ""
   - [This is REAPER 6 - Recording Audio (4/15)](../lectures/week-3/reaper-recording/)
 - Time permitting - recording some audio in the studio
 
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/13
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/13 -->
 
 <!-- > Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
 > Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk) -->
 
 <!--
 > Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
-
-# Week 4 (9/12) - Microphones and recording in the studio
+<!-- 
+# Week 4 (9/11) - Microphones and recording in the studio
 
 ## Tuesday
 
@@ -92,7 +92,7 @@ author: ""
 
 > Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
 
-# Week 5 (9/19)
+# Week 5 (9/18)
 
 ## Tuesday
 
@@ -107,7 +107,7 @@ author: ""
 
 - Class Canceled - DSU Day of Service
 
-# Week 6 (9/26) - Setting Ambience, Immersion And Sense Of Place
+# Week 6 (9/25) - Setting Ambience, Immersion And Sense Of Place
 
 ## Tuesday
 
@@ -123,7 +123,7 @@ author: ""
 
 > DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
-# Week 7 - (10/3)
+# Week 7 - (10/2)
 
 ## Tuesday
 
@@ -139,23 +139,23 @@ author: ""
   - Re-record some footsteps
   - record some of the household items - spot sounds
 
-# Week 8 (10/10) - Mood
+# Week 8 (10/19) - Mood
 
 ## Tuesday
 
 - [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
 
-## Thursday
+## Thursday -->
 
 <!-- NOTE: try to get through the book section quickly, to move onto sample manipulation, synthesis, and a final mix -->
-
+<!-- 
 - Work on Assignment 4: SFX editing and processing - due October 18th
   - Zoom in on sections of audio with "option + command + right click".
   - Quick overview of normalization, applying EQ, compression, rendering items.
   - Track effects vs take effects
 - [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
-# Week 9 (10/17)
+# Week 9 (10/16)
 
 ## Tuesday
 
@@ -165,7 +165,7 @@ author: ""
 
 - [In class spotting assignment](../lectures/week-9/spotting-assignment/)
 
-# Week 10 - (10/24)
+# Week 10 - (10/23)
 
 ## Tuesday
 
@@ -177,7 +177,7 @@ author: ""
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
-# Week 11 - (10/31)
+# Week 11 - (10/30)
 
 ## Tuesday
 
@@ -189,7 +189,7 @@ author: ""
 
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
-# Week 12 (11/7)
+# Week 12 (11/6)
 
 ## Tuesday
 
@@ -219,32 +219,5 @@ author: ""
 ## Final Exam
 
 - Tuesday, December 13; 3:30 pm - 5:30 pm
+ -->
 
-<!--
-
-# Week 12 (11/7) - TRANSFORMATION: OTHERWORLDLY CAPTURE AND MANIPULATION
-
-- [TRANSFORMATION](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=253)
-
-DUE Assignment 7 - Ambiences
-
-# Week 13 (11/14) - FINALE: MIXING AND DELIVERING A FILM
-
-- [Sound Design for Film - Tim Harrison](x-devonthink-item://6091EEEA-C3D6-4A5A-8259-05D2967845B6?page=265)
-
-# Week 14 (11/21)
-
-- Start working on the Final - composing for one of Konrad's class animations
-- Presentations
-
-## Thursday
-
-Thanksgiving - No classes
-
-# Week 15 (11/28)
-
-# Week 16 (12/5)
-
-## Thursday
-
-Start of final exams -->
