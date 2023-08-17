@@ -119,7 +119,7 @@ Lost in translation where Bill Murray whispers something to Scarlett Johanson's 
 
 {{% note %}}
 Alongside sound design, music is a key maker of mood, often able to express itself more freely when it comes to the image. On smaller productions, a single person may be responsible for both areas, but **usually musical selections and creations are handled by a separate department**. Within this team, a composer writes new pieces, known as music cues, whilst a music supervisor deals with commercial tracks. A music editor works to fit both to the pic
-
+{{%/ note %}}
 ---
 
 ## Pre-existing tracks
