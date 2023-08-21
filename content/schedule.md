@@ -17,9 +17,8 @@ author: ""
 ## Thursday
 
 - Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon)
-- [Reaper introduction](../lectures/week-1/reaper-intro/)
 
-> Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) on Perusall and make three meaningful comments.
+> Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) 
 
 <!-- 
 # Week 2 (8/28) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
