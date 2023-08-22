@@ -175,6 +175,7 @@ author: ""
 
 ## Thursday
 
+- ATMI conference - move material to next week or assign students work while you're gone
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
