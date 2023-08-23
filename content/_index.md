@@ -1,5 +1,5 @@
 ---
-title: "DAD 310: Digital Soundtrack Production"
+title: "DAD 310: Sound Design for Film"
 ---
 
 ![field recording](Field_Recording_Mit_Cinela_Albert.jpg)

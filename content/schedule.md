@@ -16,7 +16,10 @@ author: ""
 
 ## Thursday
 
+- Review hypothe.is usage
 - Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon)
+- Watch some [silent films](https://www.youtube.com/@silentfilmhouse/playlists) 
+- [History Of Sound Movies & Transition From Silent Era](https://www.youtube.com/watch?v=4xkckmog67g)
 
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) 
 
