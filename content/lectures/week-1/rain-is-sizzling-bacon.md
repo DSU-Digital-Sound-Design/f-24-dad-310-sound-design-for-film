@@ -59,6 +59,8 @@ a particular car driving on a Manhattan street that sounds like cows mooing
 
 > What are some of the descriptors used for sounds on Miles Ahead?
 
+[Car chase scene](https://youtu.be/XUmDXHE7QW0?si=8jKmbT9dN8KmpL-Y&t=4424)
+
 stack, a field, a room, a series of colours. Noises were described as “washy”, “pingy”, “chunky”, “spongy”, “roomy”, “blatty” and “futzy”.
 
 > What was the change that Lievsay made when Don Cheadle said that a scene was too dreamy?
