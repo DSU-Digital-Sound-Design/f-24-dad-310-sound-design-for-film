@@ -30,6 +30,11 @@ The degree to which sound is eventually able to participate in storytelling will
 
 Most of the great sound sequences in films are "pov" sequences. The photography, the blocking of actors, the production design, art direction, editing, and dialogue have been set up such that we, the audience, are experiencing the action more or less through the point of view of one, or more, of the characters in the sequence.
 
+
+- Watch [Eight great POV shots in the movies - Little White Lies](https://lwlies.com/articles/eight-great-uses-of-pov-perspective-in-movies/) 
+  - [(433) The Diving Bell and the Butterfly | ‘This Can't Be Life’ (HD) - Mathieu Amalric | MIRAMAX - YouTube](https://www.youtube.com/watch?v=2IhVl7AVW4k)
+- [(433) POV Shots in Film and TV - YouTube](https://www.youtube.com/watch?v=7aV5bZF9PUc)
+
 ## Production
 
 Not much thought on set's is given to the needs of sound recording. This is due to noise of the construction of the set but also the way the scenes are blocked.
@@ -54,8 +59,14 @@ It seems to me that one element of writing for movies stands above all others in
 
 We'll skip some of the idea for writing scripts...
 
-Thom also lists a few different camera techniques that can make sound more interesting. These approaches are ways of withholding information from the viewer.
+## Extreme Close-ups and Long Shots   
 
+- [(433) The Black Stallion (1/11) Movie CLIP - Alec Meets the Stallion (1979) HD - YouTube](https://www.youtube.com/watch?v=8TM2yB381fc)
+* [(433) Never Cry Wolf - Opening Flying Scene (feat. Mark Isham) - YouTube](https://www.youtube.com/watch?v=eui0-FSX83w)
+
+## Slow Motion   
+
+- [(433) Raging Bull (9/12) Movie CLIP - You Never Got Me Down (1980) HD - YouTube](https://www.youtube.com/watch?v=Tx-kB1KKLJ0)
 ## Sound's Talents
 
 Music, dialogue, and sound effects can each do any of the following jobs, and many more:
