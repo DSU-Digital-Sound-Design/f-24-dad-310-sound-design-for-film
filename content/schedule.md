@@ -31,21 +31,13 @@ author: ""
 
 > Read: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
 
-<!-- 
 ## Thursday
+- Note: When you do a reading, turn in something to the D2L Dropbox, so I see that you have completed the assignment. Also, please submit your username on hypothes.is so I know who you are. 
+- Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
+  - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html)
+- Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/)
 
-- watch some of your 15 second clips of Buster Keaton's Cops
-- Talk about SDFF chapter 1 - [notes](../lectures/week-2/sdff-chapter-1/)
-- Listen to soundscape music examples? Westerkamp, Truax etc?
-
-> Read for next week: Chapter 2 Character Psychology And Acting With Sound, SDDF
--->
-
-<!--
-> 9/1 - Census Day
-
-> Read: [10 Things About Sound You May Not Know](https://edition.cnn.com/2010/OPINION/10/10/treasure.sound/index.html)
-> Listen: [Making Waves\: The Art of Cinematic Sound with Walter Murch, Ben Burtt, Gary Rydstrom, and Midge Costin](https://soundcloud.com/soundworkscollection/making-waves-the-art-of-cinematic-sound) -->
+> Read for next week: Aesthetics of Foley: Noise, Sound, Single, Married
 
 <!--
 # Week 3 (9/4) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
