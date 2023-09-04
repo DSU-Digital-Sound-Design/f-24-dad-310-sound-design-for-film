@@ -39,38 +39,29 @@ author: ""
 
 > Read for next week: Aesthetics of Foley: Noise, Sound, Single, Married
 
-<!--
 # Week 3 (9/4) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
 ## Tuesday
 
-- readings: be sure to comment three times in perusall AND submit that you read it in D2L so that I can grade the work.
 - Introduce Foley
-  - Chapter 2 Character Psychology And Acting With Sound, SDDF - [notes](../lectures/week-3/sdff-chapter-2/)
-
-> Listen: [Working: How Foley Artist Joanna Fang Creates Sound Effects for Movies and TV](https://app.perusall.com/courses/dad-310-digital-soundtrack-production-525139069/working-how-foley-artist-joanna-fang-creates-sound-effects-for-movies-and-tv?assignmentId=rFNfYWnADpQDhAcmZ&part=1)
+  - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
+- Discuss: Aesthetics of Foley: Noise, Sound, Single, Married
 
 ## Thursday
 
-- Discuss [Joanna Fang](https://www.imdb.com/name/nm4825197/) podcast - [notes](../lectures/week-3/fang/)
+- Continue watching clips from Foley grail
 - How to build a [Foley pit](https://www.thefilmlook.com/thefilmlook-video/how-to-build-a-diy-foley-pit), and [more advanced](http://www.playdotsound.com/portfolio-item/build-your-own-foley-pit/)
-- More Reaper, tracks and recording to record your foley
-  - [This is REAPER 6 - The Tracks (3/15)](../lectures/week-3/reaper-tracks/)
-  - [This is REAPER 6 - Recording Audio (4/15)](../lectures/week-3/reaper-recording/)
-- Time permitting - recording some audio in the studio
 
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/13 -->
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/12
 
-<!-- > Read: [REAPER Default Keyboard Shortcuts Summary](https://user.cockos.com/~glazfolk/ReaperKeyboardShortcuts.pdf), [Behind the Art: Pelayo Gutierrez](https://designingsound.org/2011/04/11/behind-the-art-pelayo-gutierrez/), [Zoe Freed Puts her Best Foot Forward](https://www.behindtheglass.uk/article-select.php?id=354&cat=113&pag=1)
-> Watch: [This is REAPER 6 - MIDI (5/15)](https://youtu.be/3kY75JnmlNk), [This is REAPER 6 - Editing (6/15)](https://youtu.be/W2FduoFjYwk) -->
 
-<!--
 > Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
 <!-- 
 # Week 4 (9/11) - Microphones and recording in the studio
 
 ## Tuesday
 
+- Read more from Foley grail - Chapter 5-6
 - What Foley items did you bring in? Let's spend a part of class rehearsing to the short clip.
 - Quick overview of [recording hardware](../lectures/week-4/audio-hardware/)
 - Microphone and recording studio introduction - [Charm Studios](https://sites.google.com/view/charmstudios/studio-documentation)
@@ -82,6 +73,7 @@ author: ""
 
 ## Thursday
 
+- Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - _A Quiet Place_ Foley redesign
 
