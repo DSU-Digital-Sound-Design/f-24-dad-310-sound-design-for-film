@@ -47,6 +47,7 @@ author: ""
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
 - Discuss: Aesthetics of Foley: Noise, Sound, Single, Married
 
+<!-- 
 ## Thursday
 
 - Continue watching clips from Foley grail
@@ -56,7 +57,6 @@ author: ""
 
 
 > Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
-<!-- 
 # Week 4 (9/11) - Microphones and recording in the studio
 
 ## Tuesday
