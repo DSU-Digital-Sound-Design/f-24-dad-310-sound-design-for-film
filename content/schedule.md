@@ -56,7 +56,7 @@ author: ""
 > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/12
 
 
-> Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas -->
+> Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas  
 # Week 4 (9/11) - Microphones and recording in the studio
 
 ## Tuesday
