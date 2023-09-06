@@ -55,19 +55,19 @@ author: ""
 > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/12; find a time to rehearse as a group before Tuesday. 
 > Read: Read more from Foley grail - Chapter 5-6
 
-<!-- 
-
+# Week 4 (9/11)
 ## Tuesday
 
-- Read more from Foley grail - Chapter 5-6
-- What Foley items did you bring in? Let's spend a part of class rehearsing to the short clip.
-- Quick overview of [recording hardware](../lectures/week-4/audio-hardware/)
-- Microphone and recording studio introduction - [Charm Studios](https://sites.google.com/view/charmstudios/studio-documentation)
-  - Microphones and studio booking
-  - Try a few different microphones
-- Bring anything else you might want to record with to the next class
+- Foley performances
+  - We can do a few rehearsals if necessary 
+- Recording Foley 
+  - Quick overview of [recording hardware](../lectures/week-4/audio-hardware/)
+  - Microphone and recording studio introduction - [Charm Studios](https://sites.google.com/view/charmstudios/studio-documentation)
+    - Microphones and studio booking
+    - Try a few different microphones
 
-> Read: Recording Foley section of SDFF Chapter 3
+<!-- > Read: Recording Foley section of SDFF Chapter 3 -->
+<!-- 
 
 ## Thursday
 
