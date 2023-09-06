@@ -47,17 +47,15 @@ author: ""
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
 - Discuss: Aesthetics of Foley: Noise, Sound, Single, Married
 
-<!-- 
 ## Thursday
 
-- Continue watching clips from Foley grail
-- How to build a [Foley pit](https://www.thefilmlook.com/thefilmlook-video/how-to-build-a-diy-foley-pit), and [more advanced](http://www.playdotsound.com/portfolio-item/build-your-own-foley-pit/)
+- Watch the animation again to decide which Foley item to bring in
+- Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due 9/12
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/12; find a time to rehearse as a group before Tuesday. 
+> Read: Read more from Foley grail - Chapter 5-6
 
-
-> Read for Next Week: - [Concept of sound design and listening](x-devonthink-item://EE6A536F-9F9C-476F-804D-A262AD3C5C89?page=32) from four sound areas  
-# Week 4 (9/11) - Microphones and recording in the studio
+<!-- 
 
 ## Tuesday
 
