@@ -54,7 +54,6 @@ author: ""
 - Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
 > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/12; find a time to rehearse as a group before Tuesday. 
-> Read: Read more from Foley grail - Chapter 5-6
 
 # Week 4 (9/11)
 ## Tuesday
@@ -67,9 +66,9 @@ author: ""
     - Microphones and studio booking
     - Try a few different microphones
 
-<!-- > Read: Recording Foley section of SDFF Chapter 3 -->
-<!-- 
+<!-- Reading? Foley Grail chapter 8-10 -->
 
+<!--
 ## Thursday
 
 - Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
