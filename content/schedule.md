@@ -49,6 +49,7 @@ author: ""
 
 ## Thursday
 
+- Make sure to submit something to D2L for the readings. A good example would be your username for hypothesis! 
 - Watch the animation again to decide which Foley item to bring in
 - Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
