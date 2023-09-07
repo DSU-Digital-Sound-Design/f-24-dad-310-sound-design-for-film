@@ -71,6 +71,7 @@ author: ""
 <!--
 ## Thursday
 
+- Introduce spotting in Reaper: [IDDQD Sound](https://iddqdsound.com/blog/sd4vm/12/)
 - Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - _A Quiet Place_ Foley redesign
