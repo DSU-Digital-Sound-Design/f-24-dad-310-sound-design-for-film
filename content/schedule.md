@@ -68,7 +68,7 @@ author: ""
 - In class project
   - Record a video of someone walking through the building, then try to replace the footsteps. 
 
-> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/)
+> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due September 22
 
 ## Thursday
 
