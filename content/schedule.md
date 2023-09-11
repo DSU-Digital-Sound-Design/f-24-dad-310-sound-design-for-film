@@ -65,23 +65,27 @@ author: ""
   - Microphone and recording studio introduction - [Charm Studios](https://sites.google.com/view/charmstudios/studio-documentation)
     - Microphones and studio booking
     - Try a few different microphones
+- In class project
+  - Record a video of someone walking through the building, then try to replace the footsteps. 
 
-<!-- Reading? Foley Grail chapter 8-10 -->
+> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/)
 
-<!--
 ## Thursday
 
+- DSU Day of Service - no class 
+
+<!--
+# Week 5 (9/18)
+
+## Tuesday
+
+- introduce assignment 2 - recording foley
 - Introduce spotting in Reaper: [IDDQD Sound](https://iddqdsound.com/blog/sd4vm/12/)
 - Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - _A Quiet Place_ Foley redesign
 
 > Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
-
-# Week 5 (9/18)
-
-## Tuesday
-
 - Make sure when I assign a reading that you are commenting three times on Perusall and submitting something to the dropbox so I can grade it.
 - Listen to your Foley work
 - More _A Quiet Place_ Foley redesign
@@ -91,7 +95,7 @@ author: ""
 
 ## Thursday
 
-- Class Canceled - DSU Day of Service
+- more foley recording 
 
 # Week 6 (9/25) - Setting Ambience, Immersion And Sense Of Place
 
