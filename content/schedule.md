@@ -67,6 +67,10 @@ author: ""
     - Try a few different microphones
 - In class project
   - Record a video of someone walking through the building, then try to replace the footsteps. 
+  - Quick spotting tips: 
+    - draw empty MIDI item 
+    - while looping, record takes over the empty MIDI item with `auto-punch selected items` record mode. 
+    - delete the empty take then crop to the take you like 
 
 > Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due September 22
 
