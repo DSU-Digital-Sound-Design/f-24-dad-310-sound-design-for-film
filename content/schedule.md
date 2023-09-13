@@ -67,10 +67,7 @@ author: ""
     - Try a few different microphones
 - In class project
   - Record a video of someone walking through the building, then try to replace the footsteps. 
-  - Quick spotting tips: 
-    - draw empty MIDI item 
-    - while looping, record takes over the empty MIDI item with `auto-punch selected items` record mode. 
-    - delete the empty take then crop to the take you like 
+
 
 > Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due September 22
 
@@ -83,8 +80,16 @@ author: ""
 
 ## Tuesday
 
-- introduce assignment 2 - recording foley
-- Introduce spotting in Reaper: [IDDQD Sound](https://iddqdsound.com/blog/sd4vm/12/)
+- Spotting 
+  - Install ReaPack, SWS 
+  - `Insert Empty Item`; give this a hot-key for faster spotting 
+  - Double-click to add item notes
+  - Before recording, move your count in to the correct spot:
+    - `Item edit: Move right edge of item to edit cursor`
+  - Set loop to count in and empty item 
+  - Record over the empty item using `Record mode: auto-punch selected items`
+  - Run `Script: X-Raym_Convert selected item notes to take name.lua` to rename your active take from the item notes 
+  - Crop to active take when you decide which take you want 
 - Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
 - _A Quiet Place_ Foley redesign
