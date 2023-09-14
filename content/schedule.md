@@ -82,13 +82,13 @@ author: ""
 
 - Spotting 
   - Install ReaPack, SWS 
-  - `Insert Empty Item`; give this a hot-key for faster spotting 
+  - `Insert Empty Item`; give this a hot-key for faster spotting; I used `ctrl + E`
   - Double-click to add item notes
-  - Before recording, move your count in to the correct spot:
-    - `Item edit: Move right edge of item to edit cursor`
-  - Set loop to count in and empty item 
-  - Record over the empty item using `Record mode: auto-punch selected items`
-  - Run `Script: X-Raym_Convert selected item notes to take name.lua` to rename your active take from the item notes 
+  - Before recording, move your count-in audio to the correct spot:
+    - `Item edit: Move right edge of item to edit cursor`; made my hot-key `ctrl + R`
+  - Set loop to count in and empty item; `Time selection: Set time selection to items`; my hot-key `Cmd+L`
+  - Record over the empty item using `Record mode: auto-punch selected items`; change this by right-clicking on the record button
+  - Run `Script: X-Raym_Convert selected item notes to take name.lua` to rename your active take from the item notes; hot-key: `ctrl + T`
   - Crop to active take when you decide which take you want 
 - Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
 - SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
