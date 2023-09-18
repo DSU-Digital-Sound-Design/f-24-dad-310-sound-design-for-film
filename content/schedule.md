@@ -75,36 +75,22 @@ author: ""
 
 - DSU Day of Service - no class 
 
-<!--
 # Week 5 (9/18)
 
 ## Tuesday
 
-- Spotting 
-  - Install ReaPack, SWS 
-  - `Insert Empty Item`; give this a hot-key for faster spotting; I used `ctrl + E`
-  - Double-click to add item notes
-  - Before recording, move your count-in audio to the correct spot:
-    - `Item edit: Move right edge of item to edit cursor`; made my hot-key `ctrl + R`
-  - Set loop to count in and empty item; `Time selection: Set time selection to items`; my hot-key `Cmd+L`
-  - Record over the empty item using `Record mode: auto-punch selected items`; change this by right-clicking on the record button
-  - Run `Script: X-Raym_Convert selected item notes to take name.lua` to rename your active take from the item notes; hot-key: `ctrl + T`
-  - Crop to active take when you decide which take you want 
-- Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
-- SDFF Recording Foley [notes](../lectures/week-4/recording-foley/)
-- _A Quiet Place_ Foley redesign
+- [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/) 
+- [Spotting in Reaper](../lectures/week-5/reaper-spotting/) 
+- Rest of class: _A Quiet Place_ Foley redesign
+  - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Project: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due 9/20
-- Make sure when I assign a reading that you are commenting three times on Perusall and submitting something to the dropbox so I can grade it.
-- Listen to your Foley work
-- More _A Quiet Place_ Foley redesign
-
-> Read: SDFF Chapter 3 - Setting: Ambience, Immersion, and Sense of Place
-> DUE next tuesday because of day of service
-
+> Bring in any Foley props that you would like to add to the session! 
 ## Thursday
 
 - more foley recording 
+- Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
+
+<!--
 
 # Week 6 (9/25) - Setting Ambience, Immersion And Sense Of Place
 
