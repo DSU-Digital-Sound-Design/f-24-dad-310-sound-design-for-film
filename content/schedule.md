@@ -84,11 +84,9 @@ author: ""
 - Rest of class: _A Quiet Place_ Foley redesign
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Bring in any Foley props that you would like to add to the session! 
 ## Thursday
 
-- more foley recording 
-- Foley grail - Chapter 8-10 performing foley foosteps and prop moves 
+- more foley recording: Props 
 
 <!--
 
