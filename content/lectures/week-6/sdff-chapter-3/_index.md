@@ -275,7 +275,6 @@ The sound design in Hunger is one of the many things that makes the film so powe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j9lZRDAoecs?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% note %}}
-**Bullet points:**
 
 * Highly subjective narratives, taking place in extreme environments and employing suitably bold modes of conveying setting.
 * Most films demonstrate a mix of approaches, with the level of extension being varied to suit each moment.
