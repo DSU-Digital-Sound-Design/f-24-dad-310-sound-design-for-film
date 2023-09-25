@@ -88,7 +88,6 @@ author: ""
 
 - more foley recording: Props 
 
-<!--
 
 # Week 6 (9/25) - Setting Ambience, Immersion And Sense Of Place
 
@@ -96,6 +95,9 @@ author: ""
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
 
+> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+
+<!--
 ## Thursday
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/#/12) - finish presentation
@@ -104,7 +106,6 @@ author: ""
 - [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
 - Project: [H2n (Location) Recording](../assignments/assignment-3-field-recording/)
 
-> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
 # Week 7 - (10/2)
 
