@@ -118,15 +118,21 @@ author: ""
 
 ## Tuesday
 
+- see: [(508) How I Edit Sound Effects, Write Metadata & Batch Export with Adobe Audition - YouTube](https://www.youtube.com/watch?v=JOK3im2AGvE)
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 
-> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 11
+> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October ...
 
 ## Thursday
 
-- pick a scene and do some more interesting spot recording 
-- 
+- Making some random prop/SFX
+- Try some of these: 
+  - [(508) How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider - YouTube](https://www.youtube.com/watch?v=NhKTP5_LfU8)
+  - [(508) Guy Uses Household Objects To Create Movie Sound Effects - YouTube](https://www.youtube.com/watch?v=NZeTZZ_SYpg)
+- building a sound library 
+  - [(508) Creating Sound Libraries from Home: A Beginner Guide - YouTube](https://www.youtube.com/watch?v=F34RyWUmEWU)
+  - [(508) Finding Inspiration To Create Sound Libraries from Field Recordings - YouTube](https://www.youtube.com/watch?v=77PXbYhqAeE)
 
 # Week 8 (10/19) - Mood
 
@@ -136,7 +142,6 @@ author: ""
 
 ## Thursday -->
 
-<!-- NOTE: try to get through the book section quickly, to move onto sample manipulation, synthesis, and a final mix -->
 <!-- 
 - Work on Assignment 4: SFX editing and processing - due October 18th
   - Zoom in on sections of audio with "option + command + right click".
@@ -148,24 +153,26 @@ author: ""
 
 ## Tuesday
 
+- this was dumb, dont' do it 
 - [Shape: Sound Maps, Contrast And Motif](../lectures/week-9/sdff-chapter-6/)
-
-## Thursday
-
-- [In class spotting assignment](../lectures/week-9/spotting-assignment/)
-
-# Week 10 - (10/23)
-
-## Tuesday
-
 - Another spotting trick - right click on files in media explorer -> insert into selected media items
 - [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
 
 ## Thursday
 
-- ATMI conference - move material to next week or assign students work while you're gone
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
+
+
+# Week 10 - (10/23)
+
+## Tuesday
+
 - [Reaper: Reverbs assignment](../assignments/reverb/)
+
+## Thursday
+
+- ATMI conference - move material to next week or assign students work while you're gone
+
 
 # Week 11 - (10/30)
 
@@ -177,6 +184,7 @@ author: ""
 
 ## Thursday
 
+- Redo this project but only with synths - [In class spotting assignment](../lectures/week-9/spotting-assignment/) - not sure if i should do this or redo tron, see how things are going. 
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
 # Week 12 (11/6)
