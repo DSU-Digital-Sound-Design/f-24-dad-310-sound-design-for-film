@@ -125,10 +125,8 @@ author: ""
 
 ## Thursday
 
-- A quiet place
-  - Clean up what we recorded before
-  - Re-record some footsteps
-  - record some of the household items - spot sounds
+- pick a scene and do some more interesting spot recording 
+- 
 
 # Week 8 (10/19) - Mood
 
