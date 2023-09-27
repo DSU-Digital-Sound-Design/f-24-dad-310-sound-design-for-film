@@ -98,10 +98,18 @@ author: ""
 
 ## Thursday
 
-- Demo the Zoom recorders
-  - recording, compression, limiting, bitrate/samplerate, loading files onto computer
-  - [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
-  - Group recording exercises based on: [How to Set Gain Levels For Field Recording - Free To Use Sounds](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/#:~:text=Finding%20the%20Right%20Gain%20Levels%20for%20Noisy%20Environments,later%2C%20depending%20on%20the%20situation.)
+**Demo the Zoom recorders**
+
+- recording, compression, limiting, bitrate/samplerate, loading files onto computer
+  - [E\_H4n\_Pro.pdf](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
+- Group recording exercises based on: [How to Set Gain Levels For Field Recording - Free To Use Sounds](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/#:~:text=Finding%20the%20Right%20Gain%20Levels%20for%20Noisy%20Environments,later%2C%20depending%20on%20the%20situation.)
+  * Listen to your surroundings and use headphones to identify any noise.
+  * Raise the gain until you hear noise, then reduce it until the noise disappears.
+  * For quieter ambiences, such as in a forest, keep the levels between -50 and 20 dB. 
+  * For louder ambiences sounds, such as traffic or construction, keep the levels around -12 dB. We keep the level lower so that if a a louder sound comes by so it won't ruin the recording. 
+  * For loud sounds, such as sound effects, keep the levels between -6 dB and -3 dB.
+  * If you are unsure about the levels, it is better to err on the side of caution and record at a lower level.
+- Check out the zoom from me and fill out the form on wall 
 
 > DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 

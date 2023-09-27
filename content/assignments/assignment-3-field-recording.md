@@ -8,7 +8,7 @@ Using the Zoom H4n recorder, make the following 5 recordings:
 
 ## Ambience Beds
 
-Use the onboard X/Y microphone on the Zoom H4n 
+Use the **onboard X/Y microphone** on the Zoom H4n 
 
 1.  Record 2-3 minutes of ambience in a LARGE environment like a gymnasium, parking garage, or stadium.
 2.  Record 2-3 minutes of ambience in a SMALL environment like a closet, bathroom, or office.  
@@ -17,7 +17,7 @@ Capture consistent background sound in each environment. There may be intermitte
 
 ## Ambience Details 
 
-Use the Rode NTG5 external microphone plugged into the Zoom H4n
+Use the **Rode NTG5** external microphone plugged into the Zoom H4n
 
 3. Record 1-2 minutes of a LARGE object, device or event like a truck, industrial machine, or crowd. Evoke as much focused sound as possible.
 4. Record 1-2 minutes of a MEDIUM object or device like a door, fan, or keyboard. 
@@ -34,6 +34,10 @@ For each object/device, vary the sound by:
 
 - Quieter environments: between -50 dB and -20 dB
 - Louder environments: between -6 and dB -3 dB
+
+## Recording Format 
+
+- Record at 96kHz/24bit for the best quality. See [this page](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf#page=47) for instructions on changing the format. 
 ## Slate Recordings
 
 Before each take, slate the recording by stating:
