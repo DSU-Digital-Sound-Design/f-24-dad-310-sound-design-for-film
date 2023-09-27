@@ -2,43 +2,61 @@
 title: "Assignment 3"
 ---
 
-# Assignment 3\: Zoom \(Field\) SFX Recording
+# Assignment 3: Zoom (Field) SFX Recording
 
-Using the the Zoom H4n, you will make five recordings with the following parameters\:
+Using the Zoom H4n recorder, make the following 5 recordings:
 
-- Ambience beds
-  - LARGE environment; 2-3 minutes
-  - SMALL environment; 2-3 minutes
-- Ambience details
-  - LARGE object/device/event; 1-2 minutes
-  - MEDIUM object/device/event; 1-2 minutes
-  - SMALL object/device/event; 1-2 minutes
+## Ambience Beds
 
-For the environmental recordings, capture 2-3 minutes of sound. There will inevitably be interruptions and disturbances but these will be edited out later on in Assignment 4.
+Use the onboard X/Y microphone on the Zoom H4n 
 
-## Variations
+1.  Record 2-3 minutes of ambience in a LARGE environment like a gymnasium, parking garage, or stadium.
+2.  Record 2-3 minutes of ambience in a SMALL environment like a closet, bathroom, or office.  
 
-When making the object/event/device recordings, evoke as much sound as you can in the span of 1-2 minutes. Think of these parameters when trying to get good variations:
+Capture consistent background sound in each environment. There may be intermittent disturbances, but those can be edited out later.
 
-- **Duration**: Perform the event with short and long takes. Keep in mind that long takes can easily be shortened. Short takes, however, don’t give you much to work with. Record a variety to provide flexibility during editing.
-- **Frequency**: Recordings can be varied by how frequently events are performed. Changing the timing between events will make the takes different and give you more to work with later.
-- **Impact**: How hard or soft you perform an action can evoke emotion (for example, slamming a door) or can imply weight (a hard body fall on wood). When recording, try to vary the force with which you move or strike objects.
-- **Perspective**: Where you place the microphone can give you different perspectives on a sound. Try miking footsteps from underneath stairs, a garage door from the inside and the outside, or even door knocks from both sides of a door. Using different perspectives gives you not only different sounds but also source material to use for mixing and designing different effects.
-- **Speed**: The speed of an object will affect how it sounds. Recording a car driving by at the same speed five times is only going to give you five takes of one sound. Try recording the car driving by going 15 mph, 35 mph, 55 mph, 75 mph, and 95 mph. This will give you five different sound effects. You can apply the same principle of variation to other sounds (opening and closing doors, typing on a keyboard, fan speeds, and so on).
+## Ambience Details 
 
-## Slate recordings
+Use the Rode NTG5 external microphone plugged into the Zoom H4n
 
-Each sound recording should be accompanied with a slated voice indicating:
+3. Record 1-2 minutes of a LARGE object, device or event like a truck, industrial machine, or crowd. Evoke as much focused sound as possible.
+4. Record 1-2 minutes of a MEDIUM object or device like a door, fan, or keyboard. 
+5. Record 1-2 minutes of a SMALL object or device like keys, pens, or footsteps.
 
-- Name of object or location being recorded Specific object or location information Activity being performed
-- Here are some examples of slates:
-  - “Door knock, hollow wood door using the open palm of my hand” “Door knock, hard wood door using a closed fist”
-  - “Car drive-by, Pontiac 2007 Grand Am at 45 mph”
-  - “Forest, with a stream nearby”
-  - “Insects, forest ambience”
+For each object/device, vary the sound by:
+- Duration: Make short and long takes.
+- Frequency: Vary timing between events. 
+- Impact: Vary force and intensity.
+- Perspective: Move the microphone for different perspectives.
+- Speed: Make takes at different speeds/intensities. 
 
-(Source: Viers, Sound Effects Bible)
+## Set Proper Levels 
 
-Turn in a Reaper project with 5 tracks for each recording you make. This way you will be ready to edit the files in the next project.
+- Quieter environments: between -50 dB and -20 dB
+- Louder environments: between -6 and dB -3 dB
+## Slate Recordings
 
-> DUE October 4th
+Before each take, slate the recording by stating:
+- Name of object, location or event
+- Specific details 
+- Activity being performed
+
+Example slates:
+- "Door knock, hollow wood door using open palm."
+- "Forest ambience, with stream nearby." 
+- "Typing on mechanical keyboard, individual key presses."
+
+## Deliverables
+
+Create a Reaper project with 5 tracks per recording to prepare for editing in the next assignment. 
+
+Due Date: Wednesday, October 4, 2023
+
+## **Rubric for Assignment 3: Zoom (Field) SFX Recording**
+
+| **Level**              | **Points** | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------- | ---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Exemplary**          | 100%       | The student's recordings are clear, well-balanced, and free of distortion/noise. The recordings capture the unique sound of the environment or object/device. The recordings are also properly labeled and organized, and **slate recordings are clear and concise and include all of the required information, spoken by the student's voice**. The Reaper project is well-organized and easy to navigate. All tracks are properly labeled and organized. The student has demonstrated a good understanding of Reaper editing techniques. |
+| **Meets Expectations** | 90%        | The student's recordings are generally clear and well-balanced, with some minor distortion/noise. The recordings capture most of the sound of the environment or object/device. The recordings are also mostly properly labeled and organized. **Slate recordings are generally clear and concise and include most of the required information**. The Reaper project is organized and easy to navigate. Most tracks are properly labeled and organized. The student has demonstrated a basic understanding of Reaper editing techniques.   |
+| **Needs Improvement**  | 80%        | The student's recordings may be distorted or have other technical issues. The recordings may be lacking in detail or have excessive noise or distortion. The recordings may also not be properly labeled and organized. **Slate recordings may be difficult to understand or may be missing some of the required information**. The Reaper project may be disorganized or difficult to navigate. Some tracks may not be properly labeled or organized. The student may have some difficulty using Reaper editing techniques.               |
+| **Below Expectations** | 70%        | The student's recordings are unusable due to technical issues or lack of detail. The recordings are also not labeled or organized. **Slate recordings are not present**. The Reaper project is missing files or is unusable.                                                                                                                                                                                                                                                                                                               |

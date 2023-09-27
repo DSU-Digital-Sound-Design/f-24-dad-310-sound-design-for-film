@@ -96,17 +96,16 @@ author: ""
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
 
 
-<!--
 ## Thursday
 
-- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/#/12) - finish presentation
 - Demo the Zoom recorders
   - recording, compression, limiting, bitrate/samplerate, loading files onto computer
-- [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
-- Project: [H2n (Location) Recording](../assignments/assignment-3-field-recording/)
+  - [Checkout procedure](https://docs.google.com/forms/d/e/1FAIpQLSekUcWWG-gGQFeyeB3IXiSV_zXMfDUZmSFQvAlVanL5HF7A7Q/viewform?vc=0&c=0&w=1&flr=0)
+  - Group recording exercises based on: [How to Set Gain Levels For Field Recording - Free To Use Sounds](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/#:~:text=Finding%20the%20Right%20Gain%20Levels%20for%20Noisy%20Environments,later%2C%20depending%20on%20the%20situation.)
 
 > DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
+<!--
 # Week 7 - (10/2)
 
 ## Tuesday
