@@ -127,6 +127,7 @@ author: ""
 ## Thursday
 
 - Making some random prop/SFX
+- These effects will probably need to be manipulated which is why we did them after the more natural foley and field recording!
 - Try some of these: 
   - [(508) How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider - YouTube](https://www.youtube.com/watch?v=NhKTP5_LfU8)
   - [(508) Guy Uses Household Objects To Create Movie Sound Effects - YouTube](https://www.youtube.com/watch?v=NZeTZZ_SYpg)
