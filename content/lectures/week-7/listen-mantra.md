@@ -12,29 +12,30 @@ Adapted from Rick Vier's _The Sound Effects Bible_
 - T - Trim/Crop the File
 - E - Examine Fade-Ins/Fade-Outs at the Zero Line
 - N - Normalize/Name File
+# Editing Mantra L-I-S-T-E-N Step-by-Step Guide
 
-## Listen Critically
+**1. Listen Critically**
 
-Start by listening to the file for sonic integrity. Ask the simple question
-“does this sound good?” “Is this sound useful or practical?” If the answer is ‘no’, then do not use the sound.
+Play the audio file and listen to it carefully. Does it sound good? Are there any noticeable problems, such as clicks, pops, or errors? If it doesn't sound good, just delete it. If it does and there are errors, you'll fix them in the next step. 
 
-## Identify Clicks, Pops, and Errors
+**2. Identify Clicks, Pops, and Errors**
 
-If there are noticeable clicks, pops, or errors, edit the waveform to correct them. Every sound must be free of these imperfections.
+If you hear any clicks, pops, or errors, use your audio editing software to identify and remove them. You can do this by looking for the offending waveforms and deleting them, or by using a noise reduction tool.
 
-## Signal Process (EQ and Compression)
+> Example: [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 
-Apply equalization to balance the sound. Generally, subtractive equalization is used to reduce unwanted background noise or intrusive frequencies. Additive equalization is used to boost or enhance frequencies that are lacking or to give a particular effect (for example, bass rumble). Light compression should be used to keep the sound balanced in terms of amplitude.
+**3. Signal Process (EQ and Compression)**
 
-## Trim/Crop the File
+Use equalization (EQ) and compression to improve the sound of the audio file. EQ can be used to balance the frequencies and remove any unwanted noise. Compression can be used to reduce the dynamic range of the file and make it sound more consistent.
 
-Each file should start immediately and end when the sound is finished. Use
-a trim/crop function to automatically perform this operation, or fade the file in and out manually.
+**4. Trim/Crop the File**
 
-## Examine Fade-Ins/Fade-Outs at the Zero Line
+Trim or crop the audio file to remove any unwanted silence at the beginning or end. You can also use this step to cut out any sections of the file that you don't need.
 
-After trimming/cropping or fading the file, examine the very first sample at the start and end of each file. This will allow you to identify clicks and pops that can occur when the file starts or ends above or below the zero line. Fade the offending samples to the zero line to correct this.
+**5. Examine Fade-Ins/Fade-Outs at the Zero Line**
 
-## Normalize/Name File
+If you're using fades, make sure that they start and end at the zero line. This will help to avoid any clicks or pops when the file is played.
 
-Normalize the audio to -.5dB. You don’t need to normalize ambiences or sound beds; peak points anywhere from -18dB to -6dB are acceptable for these types of sounds. Finally, name the sound as descriptively as possible and embed the file with metadata using expressive keywords.
+**6. Normalize/Name File**
+
+Normalize details to -.5dB. This will ensure that all of your audio files are at a consistent level. You don’t need to normalize ambiences or sound beds; peak points anywhere from -18dB to -6dB are acceptable for these types of sounds. Finally, name the file descriptively and embed it with metadata using expressive keywords.

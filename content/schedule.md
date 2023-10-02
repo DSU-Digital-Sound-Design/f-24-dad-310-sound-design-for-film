@@ -113,17 +113,17 @@ author: ""
 
 > DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
-<!--
 # Week 7 - (10/2)
 
 ## Tuesday
 
-- see: [(508) How I Edit Sound Effects, Write Metadata & Batch Export with Adobe Audition - YouTube](https://www.youtube.com/watch?v=JOK3im2AGvE)
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
+<!-- - see: [(508) How I Edit Sound Effects, Write Metadata & Batch Export with Adobe Audition - YouTube](https://www.youtube.com/watch?v=JOK3im2AGvE) -->
 
-> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October ...
+> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 10th
 
+<!--
 ## Thursday
 
 - Making some random prop/SFX
