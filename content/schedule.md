@@ -124,18 +124,12 @@ author: ""
 
 > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 10th
 
-<!--
 ## Thursday
 
 - Making some random prop/SFX
 - These effects will probably need to be manipulated which is why we did them after the more natural foley and field recording!
-- Try some of these: 
-  - [(508) How Cartoon Sounds Are Made For Movies & TV Shows | Movies Insider | Insider - YouTube](https://www.youtube.com/watch?v=NhKTP5_LfU8)
-  - [(508) Guy Uses Household Objects To Create Movie Sound Effects - YouTube](https://www.youtube.com/watch?v=NZeTZZ_SYpg)
-- building a sound library 
-  - [(508) Creating Sound Libraries from Home: A Beginner Guide - YouTube](https://www.youtube.com/watch?v=F34RyWUmEWU)
-  - [(508) Finding Inspiration To Create Sound Libraries from Field Recordings - YouTube](https://www.youtube.com/watch?v=77PXbYhqAeE)
 
+<!--
 # Week 8 (10/19) - Mood
 
 ## Tuesday
