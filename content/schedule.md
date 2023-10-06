@@ -129,15 +129,16 @@ author: ""
 - Making some random prop/SFX
 - These effects will probably need to be manipulated which is why we did them after the more natural foley and field recording!
 
-<!--
 # Week 8 (10/19) - Mood
 
 ## Tuesday
 
-- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
+- Edit our SFX session using built in Reaper plugins + Soundtoys 
 
+<!--
 ## Thursday -->
 
+- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
 <!-- 
 - Work on Assignment 4: SFX editing and processing - due October 18th
   - Zoom in on sections of audio with "option + command + right click".
