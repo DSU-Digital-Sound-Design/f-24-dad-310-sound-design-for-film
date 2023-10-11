@@ -135,15 +135,11 @@ author: ""
 
 - Edit our SFX session using built in Reaper plugins + Soundtoys 
 
-<!--
-## Thursday -->
-
+## Thursday 
+<!-- TODO: edit this -->
 - [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
+
 <!-- 
-- Work on Assignment 4: SFX editing and processing - due October 18th
-  - Zoom in on sections of audio with "option + command + right click".
-  - Quick overview of normalization, applying EQ, compression, rendering items.
-  - Track effects vs take effects
 - [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
 # Week 9 (10/16)
