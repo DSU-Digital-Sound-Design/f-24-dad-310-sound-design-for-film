@@ -136,23 +136,22 @@ author: ""
 - Edit our SFX session using built in Reaper plugins + Soundtoys 
 
 ## Thursday 
-<!-- TODO: edit this -->
 - [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
 
-<!-- 
-- [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
 # Week 9 (10/16)
 
 ## Tuesday
 
+- [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
+
+<!-- 
+## Thursday
+
 - this was dumb, dont' do it 
 - [Shape: Sound Maps, Contrast And Motif](../lectures/week-9/sdff-chapter-6/)
 - Another spotting trick - right click on files in media explorer -> insert into selected media items
 - [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
-
-## Thursday
-
 - [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 
 
