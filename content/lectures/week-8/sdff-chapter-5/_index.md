@@ -65,6 +65,19 @@ In short, Lynch/Splet use metaphorical sounds and images as ambiguous, open-ende
 
 {{%/ note %}}
 
+
+
+---
+
+## Twin Peaks 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFMaEIHIrGw?si=YYKT8OSW5oZxLXw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% note %}}
+
+- Extra-diegetic music by Angelo Badalamenti evokes nostalgia yet unease. In Twin Peaks, Badalamenti's synthesizer chords float ambiguously as extra-diegetic or "in the air" diegetic sounds. Musical cues undermine traditional rules of film scoring.
+{{%/ note %}}
+
 ---
 
 ## Blade Runner 2049
@@ -83,17 +96,6 @@ Musical texture use as sound effects to create a brooding but ambiguous tone.
 - Mangini and re-recording mixer Ron Bartlett share insights into the creative sound process.
 - The video emphasizes the vital role of sound design in sci-fi and the need to take risks and constantly educate yourself.
 - Overall, it provides an inside look at how the team designed the dystopian sonic world of Blade Runner 2049.
-{{%/ note %}}
-
----
-
-## Twin Peaks 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yFMaEIHIrGw?si=YYKT8OSW5oZxLXw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-{{% note %}}
-
-- Extra-diegetic music by Angelo Badalamenti evokes nostalgia yet unease. In Twin Peaks, Badalamenti's synthesizer chords float ambiguously as extra-diegetic or "in the air" diegetic sounds. Musical cues undermine traditional rules of film scoring.
 {{%/ note %}}
 
 ---
