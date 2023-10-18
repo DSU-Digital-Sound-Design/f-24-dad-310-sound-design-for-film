@@ -145,20 +145,17 @@ author: ""
 
 - [Symbol: Sound Worlds And Metaphors](../lectures/week-8/sdff-chapter-5/)
 
-<!-- 
 ## Thursday
 
-- this was dumb, dont' do it 
-- [Shape: Sound Maps, Contrast And Motif](../lectures/week-9/sdff-chapter-6/)
-- Another spotting trick - right click on files in media explorer -> insert into selected media items
 - [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
-- [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 
+<!-- 
 
 # Week 10 - (10/23)
 
 ## Tuesday
 
+- [Space: Acoustics, Silence And The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
 ## Thursday
