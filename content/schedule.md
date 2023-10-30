@@ -149,7 +149,6 @@ author: ""
 
 - [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
 
-<!-- 
 
 # Week 10 - (10/23)
 
@@ -160,11 +159,12 @@ author: ""
 
 ## Thursday
 
-- ATMI conference - move material to next week or assign students work while you're gone
+- ATMI conference - work on reverb project 
 
 
 # Week 11 - (10/30)
 
+<!-- 
 ## Tuesday
 
 - introduce Like Lambs mix? 
