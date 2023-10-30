@@ -164,14 +164,14 @@ author: ""
 
 # Week 11 - (10/30)
 
-<!-- 
 ## Tuesday
 
-- introduce Like Lambs mix? 
+- Listen to your space assignments 
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
-> Turn in your results from todays explosion sound effects lesson to D2L by Thursday at midnight
+> Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday 
 
+<!-- 
 ## Thursday
 
 - Redo this project but only with synths - [In class spotting assignment](../lectures/week-9/spotting-assignment/) - not sure if i should do this or redo tron, see how things are going. 
