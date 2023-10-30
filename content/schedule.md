@@ -167,6 +167,7 @@ author: ""
 
 ## Tuesday
 
+- introduce Like Lambs mix? 
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
 > Turn in your results from todays explosion sound effects lesson to D2L by Thursday at midnight
