@@ -167,6 +167,7 @@ author: ""
 ## Tuesday
 
 - Listen to your space assignments 
+- Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
 > Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday 
@@ -174,7 +175,7 @@ author: ""
 <!-- 
 ## Thursday
 
-- Redo this project but only with synths - [In class spotting assignment](../lectures/week-9/spotting-assignment/) - not sure if i should do this or redo tron, see how things are going. 
+- Redo this project but only with synths 
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
 # Week 12 (11/6)
