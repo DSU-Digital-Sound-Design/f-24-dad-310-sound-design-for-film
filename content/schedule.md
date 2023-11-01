@@ -172,12 +172,12 @@ author: ""
 
 > Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday 
 
-<!-- 
 ## Thursday
 
-- Redo this project but only with synths 
+- Comparing time stretching algorithms in Reaper 
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
+<!-- 
 # Week 12 (11/6)
 
 ## Tuesday
