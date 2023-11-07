@@ -175,17 +175,19 @@ author: ""
 ## Thursday
 
 - Comparing time stretching algorithms in Reaper 
-- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
-<!-- 
 # Week 12 (11/6)
 
 ## Tuesday
 
-- Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds)
+- Listen to explosion SFX projects - talk about your process
+- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
+- Let's pick another short video and do a redesign as a class
 
+<!-- 
 ## Thursday
 
+- Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds)
 - Like Lambs - final mix
 - Tuesdays will be for office hours
 - Thursdays to show progress
