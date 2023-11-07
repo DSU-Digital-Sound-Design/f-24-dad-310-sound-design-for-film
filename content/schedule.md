@@ -191,6 +191,7 @@ author: ""
 
 ## Thursday
 
+- [Splitter AI — Isolate instruments from a song](https://vocalremover.org/splitter-ai)
 - Like Lambs - final mix
 - Tuesdays will be for individual meetings 
 - Thursdays everyone meets to show progress
