@@ -43,10 +43,6 @@ The final mixdown is crucial—it's where you balance and blend all the elements
 
 ## Documentation 
 
-### Documentation for Sound Design Projects
-
-The documentation for a sound design project is crucial in demonstrating the thought process, technical approach, and creative decision-making involved in the production of the project. Below are detailed aspects that can be included in the documentation to enhance its comprehensiveness and usefulness both as a learning tool and a professional portfolio piece.
-
 #### Introduction to the Project
 
 - **Project Overview**:
