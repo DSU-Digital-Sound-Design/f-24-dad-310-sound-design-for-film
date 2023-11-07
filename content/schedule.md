@@ -184,19 +184,24 @@ author: ""
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 - Let's pick another short video and do a redesign as a class
 
-<!-- 
+> - Project proposal due 11/14  
+> - Upload links to the clips you'll be sound designing with.   
+> - Review the [Final project description](../assignments/final-project/)
+> - Project check-in point is 11/21 where you'll show what you've done so far and discuss next steps. 
+
 ## Thursday
 
-- Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds)
 - Like Lambs - final mix
-- Tuesdays will be for office hours
-- Thursdays to show progress
+- Tuesdays will be for individual meetings 
+- Thursdays everyone meets to show progress
 
-> [Final project description](../assignments/final-project/)
+<!-- - Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds) -->
+
+<!-- 
 
 # Week 13, 14, 15, 16
 
-- **Tuesdays** are open for office hours
+- **Tuesdays** are open for individual meetings 
 - Everyone meets on **Thursday** to show progress
 
 ## Meeting
@@ -209,6 +214,6 @@ author: ""
 
 ## Final Exam
 
-- Tuesday, December 13; 3:30 pm - 5:30 pm
+- Tuesday, December 12; 3:30 pm - 5:30 pm
  -->
 

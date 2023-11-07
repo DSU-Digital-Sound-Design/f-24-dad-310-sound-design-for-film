@@ -2,45 +2,96 @@
 title: "Final Project"
 ---
 
-Create a sound design that is around six minutes. This can be of an animated short that you made. Or of a feature film. If you do a feature, select three contrasting scenes to create the sound design for.
+### Final Project Overview
 
-Each successful sound design will contain dialogue, foley, and ambience.
+Your final project will be to craft a comprehensive five-minute sound design piece. This project serves as an opportunity to apply your skills and creativity to produce a professional-grade soundtrack. You may choose one of the following two options for your sound design:
 
-## Foley
+1. **Original Animated Short**: Create a sound design for an animated short film.  
+2. **Feature Film Scenes**: Select three contrasting scenes from a feature film to design your sound design. 
 
-Record as much live foley as possible. Remember that foley is used to represent a character, so every action a character takes can be recorded as foley. Sounds that can't be recorded in the studio should be recorded with a portable zoom recorder. Remember to organize your foley into three types:
+Here are some options: 
+- [SterilleFlower\_MOS\_1080p\_ProRes422\_23-976fps.mov](https://www.dropbox.com/s/7jjbrnjupup99y0/SterilleFlower_MOS_1080p_ProRes422_23-976fps.mov?dl=0)
+- Also find some great shorts on [Vimeo](https://vimeo.com/categories)
 
-- moves or cloth;
-- footsteps
-- specifics, spots or props
+Your final submission should integrate all elements of sound design that we've discussed throughout our course. Each sound design must include the following components:
 
-## Ambiences
+### Foley
+- **Recording Live Foley**: Endeavor to record as much live foley as you can, capturing the essence of the characters through the sounds of their interactions with the world.
+  - **Types of Foley**:
+    - *Moves/Cloth*: Any sounds associated with the characters' movements or their clothing.
+    - *Footsteps*: The sounds made by characters' movements across various surfaces.
+    - *Specifics/Spots/Props*: Distinctive sounds that objects make in the environment, directly related to the characters' interactions.
+  - Use studio equipment for in-house sounds, and a portable zoom recorder for those that need to be captured outside the studio setting.
 
-Ambiences can come in the form of indoor or outdoor. Create convincing ambiences for whatever scene you have to work with. If the scene is indoors you will use room tone as an ambience. If it is outdoors your ambience will contain the sounds we spoke of in the early weeks; sounds of the earth, humans, and sounds of non-human life. The ambience tracks can be further broken down into beds and details.
+### Ambiences
+- **Ambience Tracks**:
+  - *Beds*: These are your continuous sound layers that act as the foundation of your scene.
+  - *Details*: These are momentary sounds that add texture and depth at key moments within the scene.
+- **Indoor/Outdoor**: Fabricate authentic ambiences appropriate to your scene's setting.
+  - *Room Tone*: For indoor scenes, use a room tone to establish the space's auditory environment.
+  - *Outdoor Sounds*: Include earthly, human, and non-human life sounds as we've explored in previous weeks.
 
-- **Beds** - continuous layers of sound, providing a foundation for the rest of the sounds within a scene
-- **Details** - can be used as fleeting elements to punctuate the soundscape at particular moments.
+### Miscellaneous Sound Effects (SFX)
+- For all other on-screen elements that do not fall under dialogue, foley, or ambience—like the explosions or sci-fi weapons we discussed last week—create complex, layered sounds to bring these visuals to life.
 
-Organize your project to clearly show the three catagories of the sound track. I should be able to easily tell what was foley, dialogue or ambience.
+### Final Mix
+The final mixdown is crucial—it's where you balance and blend all the elements to achieve harmony and the intended emotional impact.
+- **Dialogue**: Start with the dialogue tracks if you're using them. The overall levels should average between -12 dB to -6 dB. Utilize compression to maintain consistency in the dialogue's dynamic range.
+- **Integrating Foley, SFX, and Ambience**: Once the dialogue sits well in the mix, incorporate the foley, followed by other SFX, and finally, the ambiences.
+- **Reverb and Panning**: Use reverb SENDs to unify the sound elements by placing them in the same acoustic space. Employ panning and its automation to match the sounds to the on-screen action spatially.
+- **Impulse Responses**: To assist in creating realistic acoustic environments, utilize additional impulse responses available [here](https://www.voxengo.com/impulses/).
 
-## Misc SFX
+## Documentation 
 
-There will be sound effects that don't fall into the above catagories. Examples of these have been shown in the last week of class: explosions, sci-fi weapons, etc. Anything that is seen on screen that isn't a character or an ambience falls into this category. Often these sounds are made up of many layers and take time to create to sound realistic.
+### Documentation for Sound Design Projects
 
-Your sound effects needs will vary depending on the needs of the project.
+The documentation for a sound design project is crucial in demonstrating the thought process, technical approach, and creative decision-making involved in the production of the project. Below are detailed aspects that can be included in the documentation to enhance its comprehensiveness and usefulness both as a learning tool and a professional portfolio piece.
 
-## Final Mix
+#### Introduction to the Project
 
-The final mix might be the most important part of the whole project. Here you balance all of your elements with each other, then against he other elements. You also add automation to make sure that the changes between scenes have the emotional weight they need.
+- **Project Overview**:
+  - A brief description of the project, including the type of film (animated short, feature film, etc.) and the chosen scenes.
+- **Intent and Objectives**:
+  - A clear statement of what you aimed to achieve with your sound design. This can include the mood, atmosphere, and style you intended to convey.
 
-First mix the dialogue. If you are working on a project that already has dialogue you won't have to do much. The dialogue together should sit at around -12 db to -6 dB. Compressors can be useful to keep the dialogue within the desired range of dynamics.
+#### Pre-Production
 
-Then bring in the foley, the other sound effects, and final the ambiences.
+- **Script and Scene Analysis**:
+  - Notes on the script or scene descriptions, highlighting key moments that are significant for sound design.
+- **Sound Design Plan**:
+  - An outline of the planned soundscape, including ideas for ambiences, foley, and special effects pertinent to each scene.
 
-Remember also that all of your sounds may have been recorded in different locations. Use reverb as a SEND to put your sounds in similar places.
+#### Production
 
-See these extra impulse responses [here](https://www.voxengo.com/impulses/).
+- **Foley Recording**:
+  - A detailed list of all the foley sounds recorded, the techniques and materials used, and the rationale behind each choice.
+  - Any challenges faced during foley recording and the solutions implemented.
+- **Ambiences and Effects**:
+  - Explanation of how each ambience track was created or sourced, and how it contributes to the scene's overall atmosphere.
+  - Description of the creation of special effects sounds, including any synthesis or processing techniques used.
+- **Dialogue**:
+  - Commentary on the dialogue recording process (if applicable), or the treatment of the provided dialogue tracks to fit them into the mix effectively.
 
-Also, use panning and panning automation to make sounds follow events on the screen spatially.
+#### Post-Production
 
-> You will do your final mix in the recording studio mixing booth. Submit your studio reservation with your final showing that you booked time to do the mix.
+- **Mixing Process**:
+  - A walkthrough of the mixing process, explaining how different elements were balanced.
+  - Details on the use of compression, EQ, reverb, and other effects to achieve a cohesive sound.
+- **Technical Challenges**:
+  - A section dedicated to any technical challenges encountered during the mixing process, including how they were overcome.
+
+#### Reflection
+
+- **Critical Listening and Evaluation**:
+  - Reflection on the final mix, evaluating what worked well and what could be improved.
+  - Insight into the creative choices made and how they align with the initial objectives.
+- **Peer and Self-Assessment**:
+  - Summaries of feedback received from peers or instructors and how this impacted the final project.
+  - Self-assessment of the sound design against professional benchmarks and personal expectations.
+
+
+## Deliverables
+
+- Rendered video 
+- Reaper project file 
+- One page documentation on the project 
