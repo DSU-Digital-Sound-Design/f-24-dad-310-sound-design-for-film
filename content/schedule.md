@@ -193,18 +193,18 @@ author: ""
 
 - [Splitter AI — Isolate instruments from a song](https://vocalremover.org/splitter-ai)
 - Like Lambs - final mix
-- Tuesdays will be for individual meetings 
-- Thursdays everyone meets to show progress
+- We'll all meet next Tuesday to look at the videos working on and discuss next steps. 
 
 <!-- - Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds) -->
 
-<!-- 
 
 # Week 13, 14, 15, 16
+
 
 - **Tuesdays** are open for individual meetings 
 - Everyone meets on **Thursday** to show progress
 
+<!-- 
 ## Meeting
 
 - Show effects sends again
