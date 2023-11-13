@@ -198,23 +198,52 @@ author: ""
 <!-- - Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds) -->
 
 
-# Week 13, 14, 15, 16
+# Week 13 (11/13)
 
+## Tuesday 
 
-- **Tuesdays** are open for individual meetings 
-- Everyone meets on **Thursday** to show progress
+- Watch everyone's proposed videos 
+- Next classes
+  - **Tuesdays** are open for individual meetings 
+  - Everyone meets on **Thursday** to show progress
 
-<!-- 
-## Meeting
+## Thursday 
 
-- Show effects sends again
-- Course Evaluations are open, please fill them out
-- [SFX Resources](https://www.freeaudioresource.com/sound-effects)
+- Foley recording for someone who wants to do it 
 
-# Week 16
+# Week 14 (11/20)
+
+## Tuesday
+
+- Meet with X 
+
+## Thursday - Foley
+
+- Everyone meets and shows what they've recorded for Foley
+ 
+# Week 15 (11/27)
+
+## Tuesday 
+
+- Meet with X 
+
+## Thursday 
+
+- No class, Thanksgiving Holiday 
+
+# Week 16 (124)
+
+## Tuesday 
+
+- Meet with X 
+  
+## Thursday 
+
+- Everyone meets and shows their progress so far. You should have most elements recorded and most spotting done. The last task with be the final mix. 
 
 ## Final Exam
 
 - Tuesday, December 12; 3:30 pm - 5:30 pm
+<!-- 
  -->
 
