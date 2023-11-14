@@ -203,7 +203,7 @@ author: ""
 ## Tuesday 
 
 - Watch everyone's proposed videos 
-- Next classes
+- Next Classes
   - **Tuesdays** are open for individual meetings 
   - Everyone meets on **Thursday** to show progress
 
@@ -215,7 +215,7 @@ author: ""
 
 ## Tuesday
 
-- Meet with X 
+- Meet with Noah
 
 ## Thursday - Foley
 
@@ -225,7 +225,7 @@ author: ""
 
 ## Tuesday 
 
-- Meet with X 
+- Meet with Jacob 
 
 ## Thursday 
 
@@ -235,7 +235,7 @@ author: ""
 
 ## Tuesday 
 
-- Meet with X 
+- Meet with Lane, Rachel
   
 ## Thursday 
 
