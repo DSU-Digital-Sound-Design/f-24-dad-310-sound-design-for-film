@@ -219,7 +219,7 @@ author: ""
 
 ## Thursday - Foley
 
-- Everyone meets and shows what they've recorded for Foley
+- No class, Thanksgiving Holiday 
  
 # Week 15 (11/27)
 
@@ -229,9 +229,9 @@ author: ""
 
 ## Thursday 
 
-- No class, Thanksgiving Holiday 
+- Meet with Noah
 
-# Week 16 (124)
+# Week 16 (12/4)
 
 ## Tuesday 
 
