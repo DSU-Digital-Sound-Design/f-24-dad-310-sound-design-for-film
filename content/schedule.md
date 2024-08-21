@@ -5,7 +5,7 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (8/21) - Introduction to sound design for film
+# Week 1 (8/26) - Introduction to sound design for film
 
 ## Tuesday
 
@@ -23,7 +23,8 @@ author: ""
 
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) 
 
-# Week 2 (8/28) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
+<!-- 
+# Week 2 (9/2) - LISTENING: SOUNDSCAPES, AUDIENCES, AND STORIES
 
 ## Tuesday
 
@@ -39,7 +40,7 @@ author: ""
 
 > Read for next week: Aesthetics of Foley: Noise, Sound, Single, Married
 
-# Week 3 (9/4) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
+# Week 3 (9/9) - CHARACTER: PSYCHOLOGY AND ACTING WITH SOUND
 
 ## Tuesday
 
@@ -53,9 +54,9 @@ author: ""
 - Watch the animation again to decide which Foley item to bring in
 - Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/12; find a time to rehearse as a group before Tuesday. 
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday. 
 
-# Week 4 (9/11)
+# Week 4 (9/16)
 ## Tuesday
 
 - Foley performances
@@ -69,13 +70,13 @@ author: ""
   - Record a video of someone walking through the building, then try to replace the footsteps. 
 
 
-> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due September 22
+> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording/) - Due September 27
 
 ## Thursday
-
-- DSU Day of Service - no class 
-
-# Week 5 (9/18)
+ -->
+<!-- was dsu say of service, are they still canceling class? -->
+<!-- 
+# Week 5 (9/23)
 
 ## Tuesday
 
@@ -89,7 +90,7 @@ author: ""
 - more foley recording: Props 
 
 
-# Week 6 (9/25) - Setting Ambience, Immersion And Sense Of Place
+# Week 6 (9/30) - Setting Ambience, Immersion And Sense Of Place
 
 ## Tuesday
 
@@ -111,9 +112,9 @@ author: ""
   * If you are unsure about the levels, it is better to err on the side of caution and record at a lower level.
 - Check out the zoom from me and fill out the form on wall 
 
-> DUE October 4th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+> DUE October 9th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
-# Week 7 - (10/2)
+# Week 7 - (10/7)
 
 ## Tuesday
 
@@ -122,14 +123,14 @@ author: ""
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 - More recording if necessary 
 
-> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 10th
+> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 15th
 
 ## Thursday
 
 - Making some random prop/SFX
 - These effects will probably need to be manipulated which is why we did them after the more natural foley and field recording!
 
-# Week 8 (10/19) - Mood
+# Week 8 (10/7) - Mood
 
 ## Tuesday
 
@@ -139,7 +140,7 @@ author: ""
 - [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
 
 
-# Week 9 (10/16)
+# Week 9 (10/14)
 
 ## Tuesday
 
@@ -150,7 +151,7 @@ author: ""
 - [Time: Transitions, Rhythm And Time Perception](../lectures/week-10/sdff-chapter-10/)
 
 
-# Week 10 - (10/23)
+# Week 10 - (10/28)
 
 ## Tuesday
 
@@ -162,7 +163,7 @@ author: ""
 - ATMI conference - work on reverb project 
 
 
-# Week 11 - (10/30)
+# Week 11 - (11/4)
 
 ## Tuesday
 
@@ -176,7 +177,7 @@ author: ""
 
 - Comparing time stretching algorithms in Reaper 
 
-# Week 12 (11/6)
+# Week 12 (11/11)
 
 ## Tuesday
 
@@ -187,7 +188,7 @@ author: ""
 > - Project proposal due 11/14  
 > - Upload links to the clips you'll be sound designing with.   
 > - Review the [Final project description](../assignments/final-project/)
-> - Project check-in point is 11/21 where you'll show what you've done so far and discuss next steps. 
+> - Project check-in point is 11/25 where you'll show what you've done so far and discuss next steps. 
 
 ## Thursday
 
@@ -195,10 +196,10 @@ author: ""
 - Like Lambs - final mix
 - We'll all meet next Tuesday to look at the videos working on and discuss next steps. 
 
-<!-- - Sound Design Immersive Backgrounds - some details from a [blog post](https://blog.prosoundeffects.com/how-to-sound-design-immersive-backgrounds) -->
 
 
-# Week 13 (11/13)
+
+# Week 13 (11/18)
 
 ## Tuesday 
 
@@ -211,7 +212,7 @@ author: ""
 
 - Foley recording for someone who wants to do it 
 
-# Week 14 (11/20)
+# Week 14 (11/25)
 
 ## Tuesday
 
@@ -221,7 +222,7 @@ author: ""
 
 - No class, Thanksgiving Holiday 
  
-# Week 15 (11/27)
+# Week 15 (12/2)
 
 ## Tuesday 
 
@@ -231,7 +232,7 @@ author: ""
 
 - Meet with Noah
 
-# Week 16 (12/4)
+# Week 16 (12/9)
 
 ## Tuesday 
 
@@ -244,6 +245,4 @@ author: ""
 ## Final Exam
 
 - Tuesday, December 12; 3:30 pm - 5:30 pm
-<!-- 
  -->
-

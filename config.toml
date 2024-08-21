@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "DAD 310: Digital Soundtrack Production"
+    title = "DAD 310: Sound Design for Film"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
@@ -50,8 +50,8 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "DAD 310: Digital Soundtrack Production"
-      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-22-DAD-310-Digital-Soundtrack-Production/"
+      logoText = "DAD 310: Sound Design for Film"
+      logoHomeLink = "https://dsu-digital-sound-design.github.io/f-24-DAD-310-sound-design-for-film/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
