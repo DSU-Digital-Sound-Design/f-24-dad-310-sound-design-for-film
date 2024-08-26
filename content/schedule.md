@@ -17,9 +17,8 @@ author: ""
 > Optional: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
 
 ## Thursday
-
-- Review hypothe.is usage
-- Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon)
+<!-- 
+- Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon) -->
 - Watch some [silent films](https://www.youtube.com/@silentfilmhouse/playlists) 
 - [History Of Sound Movies & Transition From Silent Era](https://www.youtube.com/watch?v=4xkckmog67g)
 
