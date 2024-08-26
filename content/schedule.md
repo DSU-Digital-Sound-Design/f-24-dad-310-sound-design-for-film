@@ -10,10 +10,11 @@ author: ""
 
 ## Tuesday
 
-- Review syllabus and expectations in class. Please note: that this syllabus is subject to change.
-- Watch: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
+- Review syllabus and expectations
+- [Sound Design examples](../lectures/week-1/intro/)
 
 > Listen: Rain is sizzling bacon, cars are lions roaring: the art of sound in movies - Podcast 
+> Optional: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
 
 ## Thursday
 
