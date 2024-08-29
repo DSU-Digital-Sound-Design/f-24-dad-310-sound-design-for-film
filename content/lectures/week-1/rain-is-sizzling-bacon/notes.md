@@ -1,7 +1,3 @@
----
-title: "Notes from podcast"
----
-
 About sound designer Skip Lievsay.
 
 We learn that sounds used in the film are not always literal records of the object. The sound of a tape deck sounded to the designers like sci-fi alien sounds. This is probably related to associations from growing up and hearing those sounds being used in those films.
@@ -20,6 +16,8 @@ There’s a lot of conditioning happening in sound design. You have to do what t
 - Every Cohen Bros film
 
 > Check out the scene from the end of No Country for Old Men: [Amazon.com: No Country for Old Men : Tommy Lee Jones, Javier Bardem, Josh Brolin, Joel Coen, Ethan Coen, Cormac McCarthy, Joel Coen, Ethan Coen, Scott Rudin, Ethan Coen, Joel Coen: Filme & TV](https://www.amazon.com/gp/video/detail/0RSHTSPI14PQCPKAMGZP8TA0Q5)
+
+
 
 > Why do the Cohen's start sound design so early?
 

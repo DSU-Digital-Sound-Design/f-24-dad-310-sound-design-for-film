@@ -17,10 +17,9 @@ author: ""
 > Optional: [No Country For Old Men](https://www.youtube.com/watch?v=rlNw1M6mQSU) video essay
 
 ## Thursday
-<!-- 
-- Discuss podcast - [notes](../lectures/week-1/rain-is-sizzling-bacon) -->
-- Watch some [silent films](https://www.youtube.com/@silentfilmhouse/playlists) 
-- [History Of Sound Movies & Transition From Silent Era](https://www.youtube.com/watch?v=4xkckmog67g)
+
+- Discuss [podcast](../lectures/week-1/rain-is-sizzling-bacon)
+- [Narrative and sound](../lectures/week-1/silent-to-sound/)
 
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) 
 
