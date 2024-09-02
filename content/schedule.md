@@ -24,18 +24,18 @@ author: ""
 > Read: [Designing for Sound, Thom](https://www.filmsound.org/articles/designing_for_sound.htm) 
 
 
-<!-- 
 # Week 2 (9/2) - Listening: Soundscapes, Audiences, and Stories
 
 ## Tuesday
 
 - [Designing for sound](../lectures/week-2/thom-designing-for-sound/) notes
 
-> Read: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
+> Homework: check out [Earth.fm: Listen to nature sounds, fall in love with the Earth](https://earth.fm/)
 
+<!-- 
 ## Thursday
-
-- Note: When you do a reading, turn in something to the D2L Dropbox, so I see that you have completed the assignment. Also, please submit your username on hypothes.is so I know who you are. 
+ 
+- see https://earth.fm/earth-stories/soundscape-acoustic-ecology/
 - Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
   - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html)
 - Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/)
