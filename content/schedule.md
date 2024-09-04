@@ -32,23 +32,23 @@ author: ""
 
 > Homework: check out [Earth.fm: Listen to nature sounds, fall in love with the Earth](https://earth.fm/)
 
-<!-- 
 ## Thursday
  
-- see https://earth.fm/earth-stories/soundscape-acoustic-ecology/
-- Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project)
-  - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html)
+- Share your experience with Earth.fm and narratives with the class.
 - Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/)
+<!-- - see https://earth.fm/earth-stories/soundscape-acoustic-ecology/
+- Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project) -->
+  <!-- - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html) -->
 
-> Read for next week: Aesthetics of Foley: Noise, Sound, Single, Married
 
+<!-- 
 # Week 3 (9/9) - Character: Psychology and Acting with Sound
 
 ## Tuesday
 
 - Introduce Foley
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
-- Discuss: Aesthetics of Foley: Noise, Sound, Single, Married
+> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday. 
 
 ## Thursday
 
@@ -56,7 +56,6 @@ author: ""
 - Watch the animation again to decide which Foley item to bring in
 - Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday. 
 
 # Week 4 (9/16) - TBD (Audio Mostly Conference in Milan)
 
