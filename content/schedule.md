@@ -49,11 +49,11 @@ author: ""
 - Introduce Foley
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
 > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday. 
+- Watch the animation again to decide which Foley item to bring in
 
 ## Thursday
 
-- Make sure to submit something to D2L for the readings. A good example would be your username for hypothesis! 
-- Watch the animation again to decide which Foley item to bring in
+
 - Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
 
 
@@ -62,15 +62,18 @@ author: ""
 ## Tuesday
 
 - TBD
+- Recording Foley
 
 ## Thursday
 
 - TBD
+- Recording Foley
 
 # Week 5 (9/23)
 
 ## Tuesday
 
+- Show recordings of Foley for short animation 
 - [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/) 
 - [Spotting in Reaper](../lectures/week-5/reaper-spotting/) 
 - Rest of class: _A Quiet Place_ Foley redesign
