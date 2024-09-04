@@ -34,8 +34,9 @@ author: ""
 
 ## Thursday
  
-- Share your experience with Earth.fm and narratives with the class.
-- Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/)
+- **10 Minutes** - two students share their Earth.fm narrative. 
+- [Sound Walk Activity](../lectures/week-2/sound-walk-journal/)
+<!-- - Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/) -->
 <!-- - see https://earth.fm/earth-stories/soundscape-acoustic-ecology/
 - Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project) -->
   <!-- - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html) -->
