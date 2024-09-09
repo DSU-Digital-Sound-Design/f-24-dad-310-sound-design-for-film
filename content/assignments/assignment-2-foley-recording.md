@@ -3,20 +3,29 @@ title: "Assignment 2"
 date: "9-26-2022"
 ---
 
-# Assignment 2: Studio Foley Recording
-
+## Overview
 Download the video [here](../HardSurface_robot_animation-346689615.mp4)
 
-Working with your team of three (or two) from Assignment 1, you will use Reaper (or another DAW) to record and layer Foley sound effects for the animation.
+This 10-second animation features a robot playing with a rubber duck. Your challenge is to create believable mechanical sounds that match the robot's movements while conveying personality and rhythm.
 
-What sound sources do you use this time around? Think about the strengths and weaknesses of your previous Foley work. You will have complete control over how these sounds are recorded, making it easier to work with objects that are very quiet or too temperamental for a live performance. In addition, working with your group of three, you can build up many layers of sound and adjust the levels so that every element is balanced to match the on-screen animation.
+Working in teams of three (or two) from Assignment 1, use Reaper to **record** and **layer** Foley sound effects for the animation.
 
-As before, you may organize your recording and sounds however you see fit. It is still helpful to think of the robot as feet & legs, torso & head, arms & fingers. However, you can record each body part separately, so there are many ways to put your final Foley design together: just the feet, the eyes, the fingers, etc. Discuss with your group and choose the best approach for your available time and props.
+## Project Requirements
+1. Cover all sound-making objects and events in the 10-second animation.
+2. Demonstrate high-quality recordings, precise synchronization, and a well-balanced final mix.
+3. Submit a zipped (compressed) archive of your entire DAW session, including all audio and video files, to D2L by the due date.
 
-Remember that animation means "bring to life." Reflect on the sounds that will lead your audience to believe this robot moves and dances autonomously. Groups should pay close attention to the synchronization and final balance of all sounds in their work.
+# Holistic Rubric: Studio Foley Recording Assignment
 
-Project requirements\:
+| Grade | Description |
+|-------|-------------|
+| A (90-100%) | The Foley work demonstrates exceptional creativity and technical skill. Sounds are of high quality, perfectly synchronized with the animation, and effectively bring the multi-armed robot and rubber duck to life. The mix is well-balanced, with clear distinction between different sound elements. The overall sound design significantly enhances the viewing experience. |
+| B (80-89%) | The Foley work shows good creativity and technical competence. Most sounds are of good quality and well-synchronized. The multi-armed robot and rubber duck are represented effectively, with only minor issues in timing or sound choice. The mix is generally well-balanced, and the sound design noticeably improves the animation. |
+| C (70-79%) | The Foley work demonstrates adequate creativity and technical ability. Sound quality and synchronization are generally acceptable, with some noticeable issues. The multi-armed robot and rubber duck are represented, but some sounds may be generic or lack detail. The mix has some imbalances, but overall supports the animation. |
+| D (60-69%) | The Foley work shows limited creativity or technical skill. There are significant issues with sound quality, synchronization, or sound choice. The multi-armed robot or rubber duck may be poorly represented sonically. The mix has noticeable imbalances that detract from the viewing experience. |
+| F (0-59%) | The Foley work fails to meet basic standards of quality and creativity. Sounds are of poor quality, poorly synchronized, or inappropriate for the animation. The multi-armed robot and rubber duck lack convincing sound representation. The mix is imbalanced and detracts significantly from the animation. |
 
-- The animation is 10 seconds long; all objects and events that make a sound must be represented somehow.
-- Evaluations will be based on the efforts of your entire group. This includes the sound quality of your recordings, synchronization, and overall mix/balance of the final Foley design.
-- Your group should zip \(compress as a zip archive\) your **entire** DAW session \(including all audio and video files\) and post to D2l on or before the assignment due date.
+Total Score: ____ / 100
+
+Additional Comments:
+

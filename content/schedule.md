@@ -36,22 +36,19 @@ author: ""
  
 - **10 Minutes** - two students share their Earth.fm narrative. 
 - [Sound Walk Activity](../lectures/week-2/sound-walk-journal/)
-<!-- - Listening Exercises [notes](../lectures/week-2/sdff-chapter-1/) -->
-<!-- - see https://earth.fm/earth-stories/soundscape-acoustic-ecology/
-- Discuss: [World Soundscape Project | The Canadian Encyclopedia](https://www.thecanadianencyclopedia.ca/en/article/world-soundscape-project) -->
-  <!-- - [Soundscape Composition](https://www.sfu.ca/~truax/scomp.html) -->
 
-
-<!-- 
 # Week 3 (9/9) - Character: Psychology and Acting with Sound
 
 ## Tuesday
 
 - Introduce Foley
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
-> Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday. 
+  
+> Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording) 
+<!-- > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday.  -->
 - Watch the animation again to decide which Foley item to bring in
 
+<!-- 
 ## Thursday
 
 
