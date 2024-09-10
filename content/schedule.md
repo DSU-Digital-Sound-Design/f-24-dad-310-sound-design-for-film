@@ -41,12 +41,11 @@ author: ""
 
 ## Tuesday
 
-- Introduce Foley
+- Introduce 
   - Aesthetics of Foley - [notes](../lectures/week-3/sdff-chapter-2/)
   
 > Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording) 
 <!-- > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday.  -->
-- Watch the animation again to decide which Foley item to bring in
 
 <!-- 
 ## Thursday
