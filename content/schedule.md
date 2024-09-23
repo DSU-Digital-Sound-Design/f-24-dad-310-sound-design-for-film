@@ -47,38 +47,42 @@ author: ""
 > Assignment 2: [Foley Recording](../assignments/assignment-2-foley-recording) 
 <!-- > Assignment 1: [Foley Design](../assignments/assignment-1-foley-design) - Due Tuesday, 9/17; find a time to rehearse as a group before Tuesday.  -->
 
-<!-- 
 ## Thursday
 
-
-- Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/)
+- No class for service day 
+<!-- 
+- Continue watching clips from Foley Grail [Chapter 3](../lectures/week-3/foley-grail-chap-3-pt-2/) -->
 
 
 # Week 4 (9/16) - TBD (Audio Mostly Conference in Milan)
 
 ## Tuesday
 
-- TBD
+<!-- TODO: tell them to watch a film and do a thing -->
 - Recording Foley
 
 ## Thursday
 
-- TBD
 - Recording Foley
 
 # Week 5 (9/23)
 
 ## Tuesday
 
+- Discuss "The Sound of Metal" sound design moments and re-watch scenes. 
+  - [Sound of Metal - Sound Design Breakdown](https://youtu.be/Hqz5rrCHClg?si=aob8QqnUUv_rZ9sA)
 - Show recordings of Foley for short animation 
-- [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/) 
-- [Spotting in Reaper](../lectures/week-5/reaper-spotting/) 
-- Rest of class: _A Quiet Place_ Foley redesign
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - Talk about issues you may have had. 
+  - Spend class time recording if you need it. 
 
+<!-- 
 ## Thursday
 
+- [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/) 
+- [Spotting in Reaper](../lectures/week-5/reaper-spotting/) 
 - More foley recording: Props 
+- Rest of class: _A Quiet Place_ Foley redesign
+  - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Week 6 (9/30) - Setting Ambience, Immersion, and Sense of Place
 
