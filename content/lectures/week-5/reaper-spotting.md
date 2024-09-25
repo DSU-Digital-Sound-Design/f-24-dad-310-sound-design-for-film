@@ -9,12 +9,8 @@ To streamline your Foley workflow in Reaper, follow these steps:
  **Add Item Notes:**
    - Double-click on items to add notes of what you'll record into the Item.
 
- **Adjust Count-In Position:**
-   - Before recording, ensure your count-in audio is in the correct position.
-   - Create a hotkey for moving the right edge of an item to the edit cursor; for example, set it to `Ctrl + R`.
-
- **Set Loop for Count-In and Empty Item:**
-   - Set up a loop encompassing your count-in and empty item.
+ **Set Loop for Empty Item:**
+   - Set up a loop.
    - Create a hotkey for setting the time selection to items; for example, set it to `Cmd + L`.
 
  **Configure Recording Mode:**

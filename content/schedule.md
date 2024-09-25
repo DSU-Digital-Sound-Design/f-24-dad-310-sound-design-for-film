@@ -75,15 +75,14 @@ author: ""
   - Talk about issues you may have had. 
   - Spend class time recording if you need it. 
 
-<!-- 
 ## Thursday
 
-- [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/) 
+<!-- - [Spotting, Cueing, and Editing Foley](../lectures/week-5/spotting/)  -->
 - [Spotting in Reaper](../lectures/week-5/reaper-spotting/) 
-- More foley recording: Props 
 - Rest of class: _A Quiet Place_ Foley redesign
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!-- 
 # Week 6 (9/30) - Setting Ambience, Immersion, and Sense of Place
 
 ## Tuesday
