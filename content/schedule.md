@@ -87,12 +87,13 @@ author: ""
 
 ## Tuesday
 
-- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
+- Record Foley for a Quiet Place
 
 ## Thursday
 
 **Demo the Zoom recorders**
 
+- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
 - Recording, compression, limiting, bitrate/samplerate, loading files onto computer
   - [E\_H4n\_Pro.pdf](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
 - Group recording exercises based on: [How to Set Gain Levels For Field Recording - Free To Use Sounds](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/#:~:text=Finding%20the%20Right%20Gain%20Levels%20for%20Noisy%20Environments,later%2C%20depending%20on%20the%20situation.)
