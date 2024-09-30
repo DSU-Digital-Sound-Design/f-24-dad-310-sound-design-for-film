@@ -82,13 +82,13 @@ author: ""
 - Rest of class: _A Quiet Place_ Foley redesign
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/f6MwssY8_oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- 
 # Week 6 (9/30) - Setting Ambience, Immersion, and Sense of Place
 
 ## Tuesday
 
 - Record Foley for a Quiet Place
 
+<!-- 
 ## Thursday
 
 **Demo the Zoom recorders**
