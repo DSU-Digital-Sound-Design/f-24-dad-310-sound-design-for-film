@@ -88,9 +88,11 @@ author: ""
 
 - Record Foley for a Quiet Place
 
-<!-- 
 ## Thursday
 
+- Record Foley for a Quiet Place
+
+<!-- 
 **Demo the Zoom recorders**
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
