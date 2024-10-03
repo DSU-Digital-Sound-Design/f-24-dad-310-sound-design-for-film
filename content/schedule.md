@@ -90,6 +90,10 @@ author: ""
 
 ## Thursday
 
+- [DSU Animation Studio Discord](https://discord.gg/BMpW46NF)
+  - The Animation Studio is a new discord where DAD students are looking for collaborators to work on projects.
+- DAD day at MAAC - Nov 14th
+  - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Record Foley for a Quiet Place
 
 <!-- 
