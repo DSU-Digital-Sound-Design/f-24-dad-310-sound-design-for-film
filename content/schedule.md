@@ -100,6 +100,9 @@ author: ""
 
 ## Tuesday
 
+- DSU photo shoot next Tuesday, loots of rules. 
+  - What shoudl we record? Stuff that looks cool. 
+- Think of fun things to do sound design with that look cool
 - Record Foley for a Quiet Place
   - Focus on outdoor SFX or Ambiences 
 - **Demo the Zoom recorders**
