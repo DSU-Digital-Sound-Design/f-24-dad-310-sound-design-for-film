@@ -96,18 +96,13 @@ author: ""
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Record Foley for a Quiet Place
 
-
-
 # Week 7 - (10/7)
 
 ## Tuesday
 
 - Record Foley for a Quiet Place
-
-<!-- 
-**Demo the Zoom recorders**
-
-- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
+  - Focus on outdoor SFX or Ambiences 
+- **Demo the Zoom recorders**
 - Recording, compression, limiting, bitrate/samplerate, loading files onto computer
   - [E\_H4n\_Pro.pdf](https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H4n_Pro.pdf)
 - Group recording exercises based on: [How to Set Gain Levels For Field Recording - Free To Use Sounds](https://www.freetousesounds.com/how-to-set-gain-levels-for-field-recording/#:~:text=Finding%20the%20Right%20Gain%20Levels%20for%20Noisy%20Environments,later%2C%20depending%20on%20the%20situation.)
@@ -119,27 +114,29 @@ author: ""
   * If you are unsure about the levels, it is better to err on the side of caution and record at a lower level.
 - Check out the zoom from me and fill out the form on wall 
 
-> DUE October 10th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+> DUE October 14th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+
+## Thursday
+
+- [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
 - Show how I organized my field recording
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 - More recording if necessary 
 
-> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 16th
+<!-- > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 16th -->
 
-## Thursday
-
-- Making some random prop/SFX
-- These effects will probably need to be manipulated, which is why we did them after the more natural Foley and field recording!
-
-# Week 8 (10/7) - Mood
+<!-- 
+# Week 8 (10/14) - Mood
 
 ## Tuesday
 
-- Edit our SFX session using built-in Reaper plugins + Soundtoys 
+- Another SFX session for DSU's photo shoot
+- Think of fun things to do sound design with that look cool 
 
 ## Thursday 
-- [Mood: Emotion, Tone and Working with Music](../lectures/week-8/sdff-chapter-4/)
+
+- Edit our SFX session using built-in Reaper plugins + Soundtoys 
 
 # Week 9 (10/14)
 
