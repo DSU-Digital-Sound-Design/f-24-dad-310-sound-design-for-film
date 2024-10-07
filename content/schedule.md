@@ -96,6 +96,14 @@ author: ""
   - think of a project you'd like to have shown at the event; every DSD student is required to show at least one work.
 - Record Foley for a Quiet Place
 
+
+
+# Week 7 - (10/7)
+
+## Tuesday
+
+- Record Foley for a Quiet Place
+
 <!-- 
 **Demo the Zoom recorders**
 
@@ -112,11 +120,6 @@ author: ""
 - Check out the zoom from me and fill out the form on wall 
 
 > DUE October 10th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
-
-# Week 7 - (10/7)
-
-## Tuesday
-
 - Show how I organized my field recording
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
