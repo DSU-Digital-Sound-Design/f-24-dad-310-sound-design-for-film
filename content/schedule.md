@@ -115,7 +115,7 @@ author: ""
   * If you are unsure about the levels, it is better to err on the side of caution and record at a lower level.
 - Check out the zoom from me and fill out the form on wall 
 
-> DUE October 14th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
+> DUE October 18th [Assignment 3: Field Recording](../assignments/assignment-3-field-recording/)
 
 ## Thursday
 
@@ -124,7 +124,7 @@ author: ""
   - Focus on outdoor SFX or Ambiences 
 
 
-<!-- > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 16th -->
+
 
 # Week 8 (10/14) 
 
@@ -138,6 +138,8 @@ author: ""
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
+
+> Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 25th
 
 <!-- 
 # Week 9 (10/14)
