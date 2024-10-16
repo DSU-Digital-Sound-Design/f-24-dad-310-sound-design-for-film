@@ -2,40 +2,44 @@
 title: "The Editing Mantra: LISTEN"
 ---
 
-Adapted from Rick Vier's _The Sound Effects Bible_
+Adapted from Rick Vier's *The Sound Effects Bible*
 
 # The Editing Mantra L-I-S-T-E-N
 
-- L - Listen Critically
-- I - Identify Clicks, Pops, and Errors
-- S - Signal Process (EQ and Compression)
-- T - Trim/Crop the File
-- E - Examine Fade-Ins/Fade-Outs at the Zero Line
-- N - Normalize/Name File
-# Editing Mantra L-I-S-T-E-N Step-by-Step Guide
+- **L** - Listen Critically
+- **I** - Identify Clicks, Pops, and Errors
+- **S** - Signal Process (EQ and Compression)
+- **T** - Trim/Crop the File
+- **E** - Examine Fade-Ins/Fade-Outs at the Zero Line
+- **N** - Normalize/Name File
 
-**1. Listen Critically**
+---
 
-Play the audio file and listen to it carefully. Does it sound good? Are there any noticeable problems, such as clicks, pops, or errors? If it doesn't sound good, just delete it. If it does and there are errors, you'll fix them in the next step. 
+## Editing Mantra L-I-S-T-E-N Step-by-Step Guide
 
-**2. Identify Clicks, Pops, and Errors**
+### 1. Listen Critically
 
-If you hear any clicks, pops, or errors, use your audio editing software to identify and remove them. You can do this by looking for the offending waveforms and deleting them, or by using a noise reduction tool.
+Play the audio file and listen carefully. Does it sound good? Are there any noticeable problems, such as clicks, pops, or other errors? If the audio quality is poor, consider deleting it and starting over. If the quality is good but has some errors, proceed to fix them in the next steps.
 
-> Example: [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
+### 2. Identify Clicks, Pops, and Errors
 
-**3. Signal Process (EQ and Compression)**
+Listen for clicks, pops, or errors in the audio. Use your editing software to identify and remove these issues. You can manually locate the offending waveforms and delete them, or use a noise reduction tool to clean up the file.
 
-Use equalization (EQ) and compression to improve the sound of the audio file. EQ can be used to balance the frequencies and remove any unwanted noise. Compression can be used to reduce the dynamic range of the file and make it sound more consistent.
+> Example: [Editing and Cleaning Up Audio in Reaper](../editing/)
 
-**4. Trim/Crop the File**
+### 3. Signal Process (EQ and Compression)
 
-Trim or crop the audio file to remove any unwanted silence at the beginning or end. You can also use this step to cut out any sections of the file that you don't need.
+Apply equalization (EQ) and compression to enhance the sound quality. Use EQ to balance the frequency spectrum and remove unwanted noise. Apply compression to manage the dynamic range and ensure a more consistent sound.
 
-**5. Examine Fade-Ins/Fade-Outs at the Zero Line**
+### 4. Trim/Crop the File
 
-If you're using fades, make sure that they start and end at the zero line. This will help to avoid any clicks or pops when the file is played.
+Trim or crop the audio file to remove unwanted silence at the beginning or end. This step also includes cutting out any sections that are unnecessary or do not contribute to the final product.
 
-**6. Normalize/Name File**
+### 5. Examine Fade-Ins/Fade-Outs at the Zero Line
 
-Normalize details to -.5dB. This will ensure that all of your audio files are at a consistent level. You don’t need to normalize ambiences or sound beds; peak points anywhere from -18dB to -6dB are acceptable for these types of sounds. Finally, name the file descriptively and embed it with metadata using expressive keywords.
+When adding fade-ins or fade-outs, make sure they begin and end at the zero line. This prevents clicks or pops during playback, ensuring smooth transitions.
+
+### 6. Normalize/Name File
+
+Normalize peaks to -0.5 dB to keep audio levels consistent across files. Note that ambiences or sound beds do not need to be normalized this high; peak levels between -18 dB and -6 dB are acceptable for these types of sounds. Finally, name the file descriptively, and embed metadata with expressive keywords for easier categorization.
+
