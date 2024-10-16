@@ -48,6 +48,13 @@ We can go back to the first chapter and talk about ambience in 3 different catag
 
 ---
 
+### Beds - Stalker (1979)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3hBLv-HLEc?si=lFnXXqPLESIt8BED&amp;start=2955" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
+
 ### Beds - Wuthering Heights (2011)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mop7madxCbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -89,6 +96,16 @@ Through expressive sound design, Lynch creates an audio landscape that externali
 
 ---
 
+## Details - In The Mood For Love (2000)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3A983z2yItg?si=J_Jax8dXtIoSqFld&amp;start=2955" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{% note %}}
+Wong Kar-wai uses the sound of rain as a detailed element, evoking emotions of longing and melancholy. The rain becomes a subtle but significant part of the setting, punctuating moments of silence.
+{{%/ note %}}
+
+---
+
 ## Room Tones
 
 > the ‘dead air’ of an indoor space, the sound that remains when there is no action.
@@ -116,7 +133,7 @@ Through expressive sound design, Lynch creates an audio landscape that externali
 
 ### Eraserhead
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKhURjt9x5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtOAimyUsvI?si=_q7zp_76KboUTXzO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {{% note %}}
 We can also create tones using sustained music notes, pitched up or down to blend with the other layers. If our chosen sound works with the image and has the right atmosphere for the scene, we need not worry about motivating it in terms of a source within the room. In fact, many films make no attempt at realism within the room tones. **This is the case with many horror and science-fiction films, or in the crackling and rumbling domestic spaces of Eraserhead, for example.**
@@ -124,6 +141,16 @@ We can also create tones using sustained music notes, pitched up or down to blen
 In Eraserhead, Lynch uses drone sounds to create a sense of unease and dread throughout the film. The constant presence of the drone sounds creates a feeling of tension and anxiety in the viewer. This is heightened by the fact that the drone sounds are often associated with negative images, such as the factory, the baby, and Henry's nightmare.
 
 Lynch's use of drone sounds in Eraserhead is one of the many ways that he creates a sense of unease and dread in the film. The drone sounds are unsettling and disorienting, and they contribute to the overall atmosphere of the film.
+{{%/ note %}}
+
+---
+
+## Solaris (1972)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8ZhQPaw4rE?si=NU_lIFCrlXWxy7kY&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{% note %}}
+The dead air inside the spaceship emphasizes isolation and introspection, making the room tone vital in this film’s creation of atmosphere. The minimal hum of the spaceship serves as a constant reminder of the character's separation from Earth.
 {{%/ note %}}
 
 ---
@@ -165,12 +192,22 @@ Sound designers can use all of these elements to create a soundscape that reflec
 
 ---
 
-## World coming in
+## World coming in: Taxi Driver (1976)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LvtFcK8BaY8?si=XipUJ9r-tV7IxcyK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{% note %}}
 For example, in the film "Taxi Driver," the sound of the city outside Travis Bickle's cab reflects his inner turmoil. The noise and chaos of the city represent the violence and alienation that he feels.
+{{%/ note %}}
+
+---
+
+## World Coming In: Eternal Sunshine of the Spotless Mind (2004)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EttRNOipTxU?si=lf2NpAINCxisdFJw&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{% note %}}
+As Joel's memories are erased, the sound design emphasizes the disorientation by using collapsing environmental sounds, distorting everyday noises, and blending them with his inner thoughts. This shows the outside world breaking into his inner mindscape.
 {{%/ note %}}
 
 ---
@@ -193,6 +230,7 @@ In other cases, it might make sense to keep the outside world out of the room wi
 This scene is effective because it creates a sense of isolation and claustrophobia. The viewer feels trapped in the Gold Room with Jack, and they are just as unaware of the outside world as he is. The silence is also very effective, as it highlights the tension and suspense of the scene. The scene also reflects Jack's inner state of mind, as he is completely obsessed with his work and has shut out the rest of the world.
 {{%/ note %}}
 
+
 ---
 
 ### Sense of Place
@@ -209,7 +247,10 @@ In 1996, the Japanese government designated ‘100 Soundscapes of Japan’, in a
 {{%/ note %}}
 
 
+
+
 ---
+
 
 ### Setting as Character
 
@@ -222,6 +263,19 @@ One of the most iconic sounds in Blade Runner is the sound of the rain. The rain
 ---
 
 ### Sense of Scale
+
+---
+
+
+### The Zone of Interest (2023)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6L7IBO0k3g?si=y4dCLc0Fy_QOYOv8&amp;start=2783" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{% note %}}
+Scenes in the garden have sounds of the camp on the ohter side of the wall. Scenes in nature have pleasant sounds of birds and wind.
+
+The Zone of Interest contrasts the horrors of the Holocaust with the eerie quiet of domestic life inside the Commandant's home. The almost complete absence of external sound (e.g., the camps' noises) creates an unsettling separation from the atrocities happening nearby.
+{{%/ note %}}
 
 ---
 

@@ -126,22 +126,20 @@ author: ""
 
 <!-- > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 16th -->
 
-# Week 8 (10/14) - Mood
+# Week 8 (10/14) 
 
 ## Tuesday
 
 - Another SFX session for DSU's photo shoot
 - Think of fun things to do sound design with that look cool 
 
-<!-- 
 ## Thursday 
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
-- Show how I organized my field recording
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
-- Edit our SFX session using built-in Reaper plugins + Soundtoys 
 
+<!-- 
 # Week 9 (10/14)
 
 ## Tuesday
