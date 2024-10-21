@@ -136,20 +136,22 @@ author: ""
 ## Thursday 
 
 - [Ambience, immersion, field recording](../lectures/week-6/sdff-chapter-3/)
-- [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
-- [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 
 > Assignment 4: [SFX editing](../assignments/assignment-4-sfx-editing/) - DUE October 25th
 
-<!-- 
 # Week 9 (10/14)
 
 ## Tuesday
 
-- [Symbol: Sound Worlds and Metaphors](../lectures/week-8/sdff-chapter-5/)
+- Listen to your recordings from the other day and talk about how we might be able to edit them. 
+- Look at Soundly for examples of well edited SFX that are similar to the sounds you recorded.
+- [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
+- [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 
+<!-- 
 ## Thursday
 
+- [Symbol: Sound Worlds and Metaphors](../lectures/week-8/sdff-chapter-5/)
 - [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/)
 
 # Week 10 - (10/28)
