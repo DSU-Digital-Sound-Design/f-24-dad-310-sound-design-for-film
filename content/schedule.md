@@ -148,16 +148,17 @@ author: ""
 - [The Editing Mantra: L-I-S-T-E-N](../lectures/week-7/listen-mantra/)
 - [Editing, and cleaning up, audio in Reaper](../lectures/week-7/editing/)
 
-<!-- 
 ## Thursday
 
+- SFX editing questions? Izotope RX demo?
 - [Symbol: Sound Worlds and Metaphors](../lectures/week-8/sdff-chapter-5/)
-- [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/)
 
+<!-- 
 # Week 10 - (10/28)
 
 ## Tuesday
 
+- [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/)
 - [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 
