@@ -153,17 +153,20 @@ author: ""
 - SFX editing questions? Izotope RX demo?
 - [Symbol: Sound Worlds and Metaphors](../lectures/week-8/sdff-chapter-5/)
 
-<!-- 
 # Week 10 - (10/28)
 
 ## Tuesday
 
-- [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/)
-- [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
-- [Reaper: Reverbs assignment](../assignments/reverb/)
+- Set up Hunter's brother's short film for sound design
+  - [Setup tasks](../lectures/week-10/carsons-film-setup/)
 
+<!-- skip? - [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/) -->
+
+<!-- 
 ## Thursday
 
+- [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
+- [Reaper: Reverbs assignment](../assignments/reverb/)
 - Continue work on reverb project
 
 # Week 11 - (11/4)
