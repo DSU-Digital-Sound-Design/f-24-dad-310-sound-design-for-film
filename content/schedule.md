@@ -162,23 +162,26 @@ author: ""
 
 <!-- skip? - [Time: Transitions, Rhythm, and Time Perception](../lectures/week-10/sdff-chapter-10/) -->
 
-<!-- 
 ## Thursday
 
-- [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
+- Hunter film 
+<!-- - [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
-- Continue work on reverb project
+- Continue work on reverb project -->
 
 # Week 11 - (11/4)
 
 ## Tuesday
 
-- Listen to your space assignments 
+- Hunter film 
+  
+<!-- - Listen to your space assignments 
 - Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
-> Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday 
+> Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday  -->
 
+<!-- 
 ## Thursday
 
 - Comparing time-stretching algorithms in Reaper 
