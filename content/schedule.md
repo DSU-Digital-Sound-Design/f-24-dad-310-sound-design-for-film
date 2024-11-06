@@ -181,11 +181,13 @@ author: ""
 
 > Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday  -->
 
-<!-- 
 ## Thursday
 
-- Comparing time-stretching algorithms in Reaper 
+- [Final Project](../assignments/final-project/)
+  - Start thinking about what you want to do and who you want to work with. 
+- Hunter film
 
+<!-- 
 # Week 12 (11/11) 
 
 ## Tuesday

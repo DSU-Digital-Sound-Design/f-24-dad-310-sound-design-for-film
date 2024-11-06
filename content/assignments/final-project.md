@@ -32,7 +32,7 @@ Your final submission should integrate all elements of sound design that we've d
   - *Outdoor Sounds*: Include earthly, human, and non-human life sounds as we've explored in previous weeks.
 
 ### Miscellaneous Sound Effects (SFX)
-- For all other on-screen elements that do not fall under dialogue, foley, or ambience—like the explosions or sci-fi weapons we discussed last week—create complex, layered sounds to bring these visuals to life.
+- For all other on-screen elements that do not fall under dialogue, foley, or ambience.
 
 ### Final Mix
 The final mixdown is crucial—it's where you balance and blend all the elements to achieve harmony and the intended emotional impact.
@@ -50,40 +50,16 @@ The final mixdown is crucial—it's where you balance and blend all the elements
 - **Intent and Objectives**:
   - A clear statement of what you aimed to achieve with your sound design. This can include the mood, atmosphere, and style you intended to convey.
 
-#### Pre-Production
-
-- **Script and Scene Analysis**:
-  - Notes on the script or scene descriptions, highlighting key moments that are significant for sound design.
-- **Sound Design Plan**:
-  - An outline of the planned soundscape, including ideas for ambiences, foley, and special effects pertinent to each scene.
-
-#### Production
-
-- **Foley Recording**:
-  - A detailed list of all the foley sounds recorded, the techniques and materials used, and the rationale behind each choice.
-  - Any challenges faced during foley recording and the solutions implemented.
-- **Ambiences and Effects**:
-  - Explanation of how each ambience track was created or sourced, and how it contributes to the scene's overall atmosphere.
-  - Description of the creation of special effects sounds, including any synthesis or processing techniques used.
-- **Dialogue**:
-  - Commentary on the dialogue recording process (if applicable), or the treatment of the provided dialogue tracks to fit them into the mix effectively.
-
-#### Post-Production
-
-- **Mixing Process**:
-  - A walkthrough of the mixing process, explaining how different elements were balanced.
-  - Details on the use of compression, EQ, reverb, and other effects to achieve a cohesive sound.
-- **Technical Challenges**:
-  - A section dedicated to any technical challenges encountered during the mixing process, including how they were overcome.
-
 #### Reflection
 
 - **Critical Listening and Evaluation**:
   - Reflection on the final mix, evaluating what worked well and what could be improved.
   - Insight into the creative choices made and how they align with the initial objectives.
-- **Peer and Self-Assessment**:
-  - Summaries of feedback received from peers or instructors and how this impacted the final project.
-  - Self-assessment of the sound design against professional benchmarks and personal expectations.
+- **Mixing Process**:
+  - A walkthrough of the mixing process, explaining how different elements were balanced.
+  - Details on the use of compression, EQ, reverb, and other effects to achieve a cohesive sound.
+- **Technical Challenges**:
+  - A section dedicated to any technical challenges encountered during the mixing process, including how they were overcome.
 
 
 ## Deliverables
