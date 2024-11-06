@@ -165,7 +165,6 @@ author: ""
 ## Thursday
 
 - Hunter film 
-<!-- - [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Reaper: Reverbs assignment](../assignments/reverb/)
 - Continue work on reverb project -->
 
@@ -176,8 +175,6 @@ author: ""
 - Hunter film 
   
 <!-- - Listen to your space assignments 
-- Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
-- [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
 > Complete your own layered sound design for the explosion clip and turn it in to D2L by next Tuesday  -->
 
@@ -192,9 +189,8 @@ author: ""
 
 ## Tuesday
 
-- Listen to explosion SFX projects - talk about your process
+- [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
-- Let's pick another short video and do a redesign as a class
 
 > - Project proposal due 11/14  
 > - Upload links to the clips you'll be sound designing with.   
@@ -203,9 +199,8 @@ author: ""
 
 ## Thursday
 
-- [Splitter AI — Isolate instruments from a song](https://vocalremover.org/splitter-ai)
-- Like Lambs - final mix
-- We'll all meet next Tuesday to look at the videos working on and discuss next steps.
+- Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
+- [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
 # Week 13 (11/18)
 
