@@ -165,8 +165,8 @@ author: ""
 ## Thursday
 
 - Hunter film 
-- [Reaper: Reverbs assignment](../assignments/reverb/)
-- Continue work on reverb project -->
+<!-- - [Reaper: Reverbs assignment](../assignments/reverb/)
+- Continue work on reverb project  -->
 
 # Week 11 - (11/4)
 
@@ -180,6 +180,7 @@ author: ""
 
 ## Thursday
 
+- Look at Zombie movie mix project on D2L
 - [Final Project](../assignments/final-project/)
   - Start thinking about what you want to do and who you want to work with. 
 - Hunter film
