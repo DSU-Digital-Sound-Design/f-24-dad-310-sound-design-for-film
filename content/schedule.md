@@ -185,21 +185,20 @@ author: ""
   - Start thinking about what you want to do and who you want to work with. 
 - Hunter film
 
-<!-- 
 # Week 12 (11/11) 
 
 ## Tuesday
 
+- Talk about and listen to your mixes. 
+- What clips will you use for your final? 
 - [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
-- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 
-> - Project proposal due 11/14  
-> - Upload links to the clips you'll be sound designing with.   
-> - Review the [Final project description](../assignments/final-project/)
+<!-- 
 > - Project check-in point is 11/25, where you'll show what you've done so far and discuss next steps.
 
 ## Thursday
 
+- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 - Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
