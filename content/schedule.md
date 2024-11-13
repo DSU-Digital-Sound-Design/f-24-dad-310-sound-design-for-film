@@ -193,15 +193,15 @@ author: ""
 - What clips will you use for your final? 
 - [Space: Acoustics, Silence, and The Frequency Spectrum](../lectures/week-10/sdff-chapter-11/)
 
-<!-- 
 > - Project check-in point is 11/25, where you'll show what you've done so far and discuss next steps.
 
 ## Thursday
 
-- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 - Show [SoundQ - Unlimited Sound Effects & Music](https://www.prosoundeffects.com/soundq/)
+- [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
+<!-- 
 # Week 13 (11/18)
 
 ## Tuesday 
