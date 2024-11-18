@@ -6,7 +6,7 @@ title: "Final Project"
 
 Your final project will be to craft a comprehensive five-minute sound design piece. This project serves as an opportunity to apply your skills and creativity to produce a professional-grade soundtrack. You may choose one of the following two options for your sound design:
 
-1. **Original Animated Short**: Create a sound design for an animated short film.  
+1. **Original Short**: Create a sound design for an animated or live action short film.  
 2. **Feature Film Scenes**: Select three contrasting scenes from a feature film to design your sound design. 
 
 Here are some options: 

@@ -201,49 +201,54 @@ author: ""
 - [Sci-fi Sound Design - Tron](../lectures/week-11/tron/)
 - [Layering and pitch shifting to create sound effects](../lectures/week-11/explosion/)
 
-<!-- 
 # Week 13 (11/18)
 
 ## Tuesday 
 
-- Watch everyone's proposed videos 
-- Next Classes
-  - **Tuesdays** are open for individual meetings 
-  - Everyone meets on **Thursday** to show progress
+- Watch your zombie movie mixes and present your ideas for the final. 
+  - What movie did you pick? What do you think the challenges will be? 
 
 ## Thursday 
 
-- Foley recording for someone who wants to do it 
+- **In-class work session.** Start gathering materials, recording foley, and working on ambiences.
+  - Each student is required to bring in items they will want to record for foley. 
 
-# Week 14 (11/25) - Thanksgiving Holiday (No Class)
+# Week 14 (11/25)
 
 ## Tuesday
 
-- Meet with Noah
+- **Progress check-in.** Briefly share your progress, challenges faced, and next steps. The remaining time will be used for an in-class work session.
 
-## Thursday - Thanksgiving Holiday (No Class)
+## Thursday 
+
+- Thanksgiving Holiday (No Class)
 
 # Week 15 (12/2)
 
 ## Tuesday 
 
-- Meet with Jacob 
+- **In-class work session.** Focus on completing your foley, ambiences, and starting the final mix.
 
 ## Thursday 
 
-- Meet with Noah
+- Objective: Students present their nearly completed projects for final group feedback.
+- Structure:
+  - Introduction (10 minutes): Review expectations for a full draft and provide guidelines for giving constructive feedback.
+  - Presentations (50 minutes): Each student presents their project. Classmates provide feedback, focusing on:
+    - Overall sound design effectiveness
+    - Emotional and narrative alignment
+    - Final tweaks before submission
+- Wrap-Up (10 minutes): Highlight common feedback points and remind students of submission guidelines.
 
 # Week 16 (12/9)
 
 ## Tuesday 
 
-- Meet with Lane, Rachel
-  
-## Thursday 
-
-- Everyone meets and shows their progress so far. You should have most elements recorded and most spotting done. The last task will be the final mix. 
+- Last meeting - fill out course evals 
+- Final work sesion 
 
 ## Final Exam
 
-- Tuesday, December 10; 3:30 pm - 5:30 pm
- -->
+- Tuesday, December 17; 3:30 pm - 5:30 pm
+- Present your project
+ 
