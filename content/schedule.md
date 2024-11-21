@@ -210,14 +210,14 @@ author: ""
 
 ## Thursday 
 
-- **In-class work session.** Start gathering materials, recording foley, and working on ambiences.
-  - Each student is required to bring in items they will want to record for foley. 
+- **In-class spotting session.** Each student presents their project setup in Reaper and discusses their spotting progress. Explain your spotting plan, detailing what you intend to record and what you will source from sound effects libraries or freesound.
 
 # Week 14 (11/25)
 
 ## Tuesday
 
-- **Progress check-in.** Briefly share your progress, challenges faced, and next steps. The remaining time will be used for an in-class work session.
+- No class - Work day 
+- Email me a short video of your progress if you would like feedback. 
 
 ## Thursday 
 
@@ -227,10 +227,17 @@ author: ""
 
 ## Tuesday 
 
-- **In-class work session.** Focus on completing your foley, ambiences, and starting the final mix.
+- **Progress check-in.** Briefly share your progress, challenges faced, and next steps. The remaining time will be used for an in-class work session.
 
 ## Thursday 
 
+- **In-class work session.** Focus on completing your foley, ambiences, and starting the final mix.
+
+# Week 16 (12/9)
+
+## Tuesday 
+
+- Last meeting - fill out course evals 
 - Objective: Students present their nearly completed projects for final group feedback.
 - Structure:
   - Introduction (10 minutes): Review expectations for a full draft and provide guidelines for giving constructive feedback.
@@ -240,15 +247,8 @@ author: ""
     - Final tweaks before submission
 - Wrap-Up (10 minutes): Highlight common feedback points and remind students of submission guidelines.
 
-# Week 16 (12/9)
-
-## Tuesday 
-
-- Last meeting - fill out course evals 
-- Final work sesion 
 
 ## Final Exam
 
 - Tuesday, December 17; 3:30 pm - 5:30 pm
 - Present your project
- 
